@@ -1,21 +1,62 @@
-# Similar Image Search
+# Similar Image Retrieval System (Example - Marvel MCU Movies)
 
 ### Objective
-The overall goal of this project is to __provide a query image and find the closest image(s) in our database__. In other words, given an image and a library of images, retireve the closes K similar images to queried image. 
+The overall goal of this project is train a set of models to determine when provided a new image (in this case a frame from one of the MCU movies), we seek to provide an output of the closest __similar images__ related to the queries image/scene. In other words, given an image and a library of images, retireve the closes K similar images to queried image. 
+
+
+![](https://cdn-images-1.medium.com/max/2000/1*DcfRFa1ShCK7SkoMC2dHfA.jpeg)
+
+__Dataset__ - For the Image Processing, i utilized Marvel's trailers posted on YouTube. Refer to the image_processing file in the image folder on downloading and capturing images.
 
 
 ### Algorithm & Experiments 
 
 In order to perform the similar inmage search, below are some of the algorithms used to determine which K images in the database is _similar_ to queried image. 
-* Structured SIMilarity (SSIM) Index [1]
+* __Structural Similarity (SSIM) Index__
+* __Locality Sensitive Hashing (LSH)__
+
+#### Structural Similarity (SSIM) Index
+__Structureal Similarity (SSIM) Index__ is an image quality metric that assesses the visual impact of three charachteristics[1]:
+1. __Luminance__
+2. __Contrast__
+3. __Structure__
+
+https://towardsdatascience.com/automatic-image-quality-assessment-in-python-391a6be52c11
+
+[Detailing the SSIM Algorithm]
+SSIM provides an image quality index based on the computations of the luminance, contrast and strucutre terms. 
 
 
-#### Requirements
-Those new to python libraries, follow this guide to [install Keras + Tensorflow](https://keras.io/#installation) as both are needed if training a new model. 
+#### Locality Sensitive Hashing (LSH)
+While SSIM is to calculate the similarities among documents. __Locality Sensitive Hashing (LSH)__ is to find __near duplicates__ pairs of images _(viz. approximate nearest neighbor)_ in the library. Essentially, when 2 images are compared, LSH computes local relationships between the two imates on the feature map. The closer the features, the more likely the images would result in similar hashes (viz. reduce representation of data).  As descirbed in [3] below is the high level steps when cmoputing the LSH Algorithm:
+
+![](https://miro.medium.com/max/952/1*27nQOTC79yfh5lzmL06Ieg.png)
 
 
-#### Sources
-* [1] Z. Wang, A. C. Bovik, H. R. Sheikh and E. P. Simoncelli, ["Image quality assessment: From error visibility to structural similarity,"](https://ece.uwaterloo.ca/~z70wang/publications/ssim.html) IEEE Transactions on Image Processing, vol. 13, no. 4, pp. 600-612, Apr. 2004.
+
+#### Transfer Learning using feature extraxtrion 
+[ ] TODO
+
+![]("./graphics/marvel_image_retrrievel_sample.png")
+
+
+### Requirements
+* Those new to python libraries, follow this guide to [install Keras + Tensorflow](https://keras.io/#installation) as both are needed if training a new model. 
+
+* For the Image Processing, i utilized Marvel's trailers posted on YouTube. Refer to the image_processing file in the image folder on downloading and capturing images. To do this you'll need to download `pytube` by running the following command in the terminal. [pytube documentation](https://python-pytube.readthedocs.io/en/latest/user/install.html)
+
+```
+$ pip install pytube
+
+```
+
+
+
+
+### Related Work
+* [1] [Math Works - SSIM](https://www.mathworks.com/help/images/ref/ssim.html)
+* [2] Wang, Z., Bovik, A. C., Sheikh, H. R., & Simoncelli, E. P. (2004). [Image quality assessment: from error visibility to structural similarity](https://ece.uwaterloo.ca/~z70wang/publications/ssim.pdf). IEEE transactions on image processing, 13(4), 600–612.
+* [3] [Locality Sensitive Hashing](https://santhoshhari.github.io/Locality-Sensitive-Hashing/) - Application of Locality Sensitive Hashing to Audio Fingerprinting
 
 
 -----
