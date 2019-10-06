@@ -37,7 +37,7 @@ While SSIM is to calculate the similarities among documents. __Locality Sensitiv
 #### Transfer Learning using feature extraxtrion 
 [ ] TODO
 
-![]("./graphics/marvel_image_retrrievel_sample.png")
+![](https://github.com/naivelogic/Image_Similarity_in_Marvel_MCU/blob/master/dev/marvel_image_retrievel_sample.png)
 
 
 ### Requirements
