@@ -17,6 +17,7 @@ __Dataset__ - For the Image Processing, i utilized Marvel's trailers posted on Y
 In order to perform the similar inmage search, below are some of the algorithms used to determine which K images in the database is _similar_ to queried image. 
 * __Structural Similarity (SSIM) Index__
 * __Locality Sensitive Hashing (LSH)__
+* various methods of __CNN distance feature extraction__, such as:Euclidean, Cosine, CityBlock, Manhattan and L2 regularization 
 
 #### Structural Similarity (SSIM) Index
 __Structureal Similarity (SSIM) Index__ is an image quality metric that assesses the visual impact of three charachteristics[1]:
