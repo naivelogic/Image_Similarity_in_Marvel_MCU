@@ -3,10 +3,23 @@
 ### Objective
 The overall goal of this project is train a set of models to determine when provided a new image (in this case a frame from one of the MCU movies), we seek to provide an output of the closest __similar images__ related to the queries image/scene. In other words, given an image and a library of images, retireve the closes K similar images to queried image. 
 
-
 ![](https://cdn-images-1.medium.com/max/2000/1*DcfRFa1ShCK7SkoMC2dHfA.jpeg)
 
-__Dataset__ - For the Image Processing, i utilized Marvel's trailers posted on YouTube. Refer to the image_processing file in the image folder on downloading and capturing images.Such as:
+### Project Overview
+For all Marvel Cinematic Universe (MCU) fans, and more boadly applied Machine Learning practictioners, this project seeks to utilize unsupervised learning and pretrained models to output a list of similar images based on the image inputed. In short, we are building a unspervided deep learning Image Similarity Recommendation system, but tuned to whatever image repository you have available. 
+
+#### Key Steps
+* Collect data and establish Image library _(in thes project we scrapped various YouTube videos)_
+* Normalized, resize and preprocess images 
+* Index image library and append meta data
+* Compute image similarity score _(similarity measures and algorithms described in the below section)_
+* Extract image features with pretrained model (e.g., CNN model like VGG50)
+* Save compressed feature matrix from compiled model 
+* Display predicted similary images from image library based off of a new image
+
+
+#### Marvel Dataset
+For the Image Processing, i utilized Marvel's trailers posted on YouTube. Refer to the image_processing file in the image folder on downloading and capturing images.Such as:
 * [YouTube] [MCU Complete Recap](https://www.youtube.com/watch?v=4eMW0TKNlpQ)
 * [YouTube] [The Entire MCU Timeline Explained](https://www.youtube.com/watch?v=SY86xyG-hDY&t=1088s)
 * [Youtbe] [Marvel Cinematic Universe 10 Year Recap](https://www.youtube.com/watch?v=wYXav05fy4w)
@@ -46,6 +59,12 @@ While SSIM is to calculate the similarities among documents. __Locality Sensitiv
 
 ### Requirements
 * Those new to python libraries, follow this guide to [install Keras + Tensorflow](https://keras.io/#installation) as both are needed if training a new model. 
+
+If starting fresh:
+* Download Anaconda and Python 3 - refer here for [setup assistance](https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/)
+* conda install -c conda-forge tensorflow
+* pip inesll keras
+* clone repository
 
 * For the Image Processing, i utilized Marvel's trailers posted on YouTube. Refer to the image_processing file in the image folder on downloading and capturing images. To do this you'll need to download `pytube` by running the following command in the terminal. [pytube documentation](https://python-pytube.readthedocs.io/en/latest/user/install.html)
 
