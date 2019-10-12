@@ -6,9 +6,12 @@ The overall goal of this project is train a set of models to determine when prov
 ![](https://cdn-images-1.medium.com/max/2000/1*DcfRFa1ShCK7SkoMC2dHfA.jpeg)
 
 ### Project Overview
-For all Marvel Cinematic Universe (MCU) fans, and more boadly applied Machine Learning practictioners, this project seeks to utilize unsupervised learning and pretrained models to output a list of similar images based on the image inputed. In short, we are building a unspervided deep learning Image Similarity Recommendation system, but tuned to whatever image repository you have available. 
+For all Marvel Cinematic Universe (MCU) fans, and more boadly applied Machine Learning practictioners, this project seeks to utilize unsupervised learning and pretrained models to retrieve a list of similar images based on the inquired image. In short, we are building a unspervided deep learning Image Similarity Recommendation system. Moreover, described in the notebooks, the project can be used to tuned whatever image repository you have available. 
 
 #### Key Steps
+To summerize the processes involved in this image similarity and retrieval system, at the highest level we are using a pre-trained deep learning model to to extract features from a provided image library (in this case Marvel Cinematic Movies) into a list of numbers (array vector) describing each image. Then we will experiment with various distance functions to best calculate the similarities between a queried image and all the other feature vectors from the image library to determine the images that are most similar. 
+
+Below are the key steps used in this project:
 * Collect data and establish Image library _(in thes project we scrapped various YouTube videos)_
 * Normalized, resize and preprocess images 
 * Index image library and append meta data
@@ -28,6 +31,7 @@ For the Image Processing, i utilized Marvel's trailers posted on YouTube. Refer 
 ### Algorithm & Experiments 
 
 In order to perform the similar inmage search, below are some of the algorithms used to determine which K images in the database is _similar_ to queried image. 
+* __Mean Squared Error__ - calculates the average squared differences (viz. errors) between images. The closer MSE is to 0, the more similar. 
 * __Structural Similarity (SSIM) Index__
 * __Locality Sensitive Hashing (LSH)__
 * various methods of __CNN distance feature extraction__, such as:Euclidean, Cosine, CityBlock, Manhattan and L2 regularization 
@@ -52,9 +56,17 @@ While SSIM is to calculate the similarities among documents. __Locality Sensitiv
 
 
 #### Transfer Learning using feature extraxtrion 
+While experimenting, we experimented with various pre-trained deep learning architecture like ImageNet and VGG to generate features from images and similarity metrics. 
+
+
 [ ] TODO
 
+
+Below is an example output of the image similarity retrieval system:
+
 ![](https://github.com/naivelogic/Image_Similarity_in_Marvel_MCU/blob/master/dev/marvel_image_retrievel_sample.png)
+
+Just scrapping various trailer images of the MCU movies, we randomly selected a MCU movie image on google, in this case Guardians of the Galaxy (2014) and which retrieved similar images from the image library from that scene. Apparently the inquired image is not in the image library, however to solve that, we can just use the [x] [Duplicate Hash] notebook that uses the Locality Sensitive Hashing (LSH) function disussed above for identifying duplicative images. 
 
 
 ### Requirements
