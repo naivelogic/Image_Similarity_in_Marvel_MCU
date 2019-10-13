@@ -1,7 +1,9 @@
 # Similar Image Retrieval System (Example - Marvel MCU Movies)
 
 ### Objective
-The overall goal of this project is train a set of models to determine when provided a new image (in this case a frame from one of the MCU movies), we seek to provide an output of the closest __similar images__ related to the queries image/scene. In other words, given an image and a library of images, retireve the closes K similar images to queried image. 
+The overall goal of this project is train a set of models to determine when provided a new image (in this case a frame from one of the MCU movies), we seek to provide an output of the closest __similar images__ related to the queries image/scene. In other words, given an image and a library of images, retireve the closes K similar images to queried image. This objective is achieved by:
+* leverage pre-trained models to extract features of images and index the nearest neighbor
+* Retrieve similar images by calculating similarity distances between inquired image and images in the databse. 
 
 ![](https://cdn-images-1.medium.com/max/2000/1*DcfRFa1ShCK7SkoMC2dHfA.jpeg)
 
@@ -33,34 +35,11 @@ For the Image Processing, i utilized Marvel's trailers posted on YouTube. Refer 
 In order to perform the similar inmage search, below are some of the algorithms used to determine which K images in the database is _similar_ to queried image. 
 * __Mean Squared Error__ - calculates the average squared differences (viz. errors) between images. The closer MSE is to 0, the more similar. 
 * __Structural Similarity (SSIM) Index__
-* __Locality Sensitive Hashing (LSH)__
+* __Locality Sensitive Hashing (LSH)__ - creates image feature hash table that computes the similarity probability and returns a relevance rank of images indexed from the image library
 * various methods of __CNN distance feature extraction__, such as:Euclidean, Cosine, CityBlock, Manhattan and L2 regularization 
-
-#### Structural Similarity (SSIM) Index
-__Structureal Similarity (SSIM) Index__ is an image quality metric that assesses the visual impact of three charachteristics[1]:
-1. __Luminance__
-2. __Contrast__
-3. __Structure__
-
-https://towardsdatascience.com/automatic-image-quality-assessment-in-python-391a6be52c11
-
-[Detailing the SSIM Algorithm]
-SSIM provides an image quality index based on the computations of the luminance, contrast and strucutre terms. 
-
-
-#### Locality Sensitive Hashing (LSH)
-While SSIM is to calculate the similarities among documents. __Locality Sensitive Hashing (LSH)__ is to find __near duplicates__ pairs of images _(viz. approximate nearest neighbor)_ in the library. Essentially, when 2 images are compared, LSH computes local relationships between the two imates on the feature map. The closer the features, the more likely the images would result in similar hashes (viz. reduce representation of data).  As descirbed in [3] below is the high level steps when cmoputing the LSH Algorithm:
-
-![](https://miro.medium.com/max/952/1*27nQOTC79yfh5lzmL06Ieg.png)
-
-
 
 #### Transfer Learning using feature extraxtrion 
 While experimenting, we experimented with various pre-trained deep learning architecture like ImageNet and VGG to generate features from images and similarity metrics. 
-
-
-[ ] TODO
-
 
 Below is an example output of the image similarity retrieval system:
 
@@ -85,10 +64,16 @@ $ pip install pytube
 
 ```
 
+----
+### Next Steps, TODOs, Outstanding Features
+* [ ] TODO: Model and Similarity Metric Evaluations 
+* [ ] Formalize experimental notebooks and scripts
+* [ ] Feature: Web crawl using [Azure: Bing Image Search](https://azure.microsoft.com/en-us/services/cognitive-services/bing-image-search-api/) to find similar images. 
 
 
 
-### Related Work
+----
+## Related Work & References
 * [1] [Math Works - SSIM](https://www.mathworks.com/help/images/ref/ssim.html)
 * [2] Wang, Z., Bovik, A. C., Sheikh, H. R., & Simoncelli, E. P. (2004). [Image quality assessment: from error visibility to structural similarity](https://ece.uwaterloo.ca/~z70wang/publications/ssim.pdf). IEEE transactions on image processing, 13(4), 600–612.
 * [3] [Locality Sensitive Hashing](https://santhoshhari.github.io/Locality-Sensitive-Hashing/) - Application of Locality Sensitive Hashing to Audio Fingerprinting
