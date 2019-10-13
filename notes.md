@@ -1,5 +1,27 @@
 # Various notes from Research and Experiments 
 
+----
+## Models and Algorithms
+
+#### Structural Similarity (SSIM) Index
+__Structureal Similarity (SSIM) Index__ is an image quality metric that assesses the visual impact of three charachteristics[1]:
+1. __Luminance__
+2. __Contrast__
+3. __Structure__
+https://towardsdatascience.com/automatic-image-quality-assessment-in-python-391a6be52c11
+
+[Detailing the SSIM Algorithm]
+SSIM provides an image quality index based on the computations of the luminance, contrast and strucutre terms. 
+
+
+#### Locality Sensitive Hashing (LSH)
+While SSIM is to calculate the similarities among documents. __Locality Sensitive Hashing (LSH)__ is to find __near duplicates__ pairs of images _(viz. approximate nearest neighbor)_ in the library. Essentially, when 2 images are compared, LSH computes local relationships between the two imates on the feature map. The closer the features, the more likely the images would result in similar hashes (viz. reduce representation of data).  As descirbed in [3] below is the high level steps when cmoputing the LSH Algorithm:
+
+![](https://miro.medium.com/max/952/1*27nQOTC79yfh5lzmL06Ieg.png)
+
+
+
+-----
 ### Renaiming Images in Folder
 
 ```python
