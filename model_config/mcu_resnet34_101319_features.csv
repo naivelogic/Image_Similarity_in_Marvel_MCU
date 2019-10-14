@@ -1,0 +1,902 @@
+,img_id,img_repr,label,label_id
+0,images/image_folders/thorragnarok/thorragnarok_37.jpg,[ 0.        6.237122 15.648483  2.596863 ...  0.        5.758714  0.        0.538411],thorragnarok,20
+1,images/image_folders/thorragnarok/thorragnarok_10.jpg,[0.       2.33268  0.       1.611229 ... 0.       0.       4.339653 4.585022],thorragnarok,20
+2,images/image_folders/thorragnarok/thorragnarok_67.jpg,[0.       8.100173 0.       0.       ... 5.683667 0.       0.       0.      ],thorragnarok,20
+3,images/image_folders/thorragnarok/thorragnarok_23.jpg,[3.422454 0.       0.       3.959728 ... 2.939396 0.923246 0.20328  0.      ],thorragnarok,20
+4,images/image_folders/thorragnarok/thorragnarok_30.jpg,[2.991441 0.       0.       0.       ... 0.       0.       3.469126 0.229942],thorragnarok,20
+5,images/image_folders/thorragnarok/thorragnarok_65.jpg,[0.       0.086719 5.751634 1.309881 ... 6.031228 0.       0.       0.      ],thorragnarok,20
+6,images/image_folders/thorragnarok/thorragnarok_69.jpg,[3.498408 0.       6.2228   0.698869 ... 4.395959 0.       0.       0.      ],thorragnarok,20
+7,images/image_folders/thorragnarok/thorragnarok_61.jpg,[6.4212   0.       0.       0.       ... 0.       1.239888 1.804388 0.      ],thorragnarok,20
+8,images/image_folders/thorragnarok/thorragnarok_19.jpg,[1.293267 0.       7.515826 4.053169 ... 3.644109 0.       0.       0.      ],thorragnarok,20
+9,images/image_folders/thorragnarok/thorragnarok_5.jpg,[0.       3.323083 5.147507 6.354373 ... 0.829135 1.11427  3.962642 1.623921],thorragnarok,20
+10,images/image_folders/thorragnarok/thorragnarok_8.jpg,[0.       8.34295  3.805539 0.       ... 6.06785  0.       0.       0.      ],thorragnarok,20
+11,images/image_folders/thorragnarok/thorragnarok_39.jpg,[0.       0.       0.       0.094392 ... 2.847191 0.       0.       0.      ],thorragnarok,20
+12,images/image_folders/thorragnarok/thorragnarok_35.jpg,[5.883417 0.       0.       0.892453 ... 0.       2.987494 2.731587 2.419651],thorragnarok,20
+13,images/image_folders/thorragnarok/thorragnarok_55.jpg,[3.16115  7.125517 1.376761 0.       ... 3.516574 0.868152 0.       0.      ],thorragnarok,20
+14,images/image_folders/thorragnarok/thorragnarok_63.jpg,[0.       8.495151 9.015964 0.       ... 0.848959 3.71308  0.       4.756789],thorragnarok,20
+15,images/image_folders/thorragnarok/thorragnarok_31.jpg,[3.077541 1.506844 0.       0.       ... 1.910875 6.513323 3.15417  0.255511],thorragnarok,20
+16,images/image_folders/thorragnarok/thorragnarok_71.jpg,[2.274271 2.16773  0.       0.       ... 1.863769 5.723421 0.       1.866492],thorragnarok,20
+17,images/image_folders/thorragnarok/thorragnarok_33.jpg,[2.166209 0.       3.001693 0.       ... 0.       0.       1.237283 0.621232],thorragnarok,20
+18,images/image_folders/thorragnarok/thorragnarok_4.jpg,[3.906433 1.850568 0.       4.24509  ... 2.398833 0.       0.       0.      ],thorragnarok,20
+19,images/image_folders/thorragnarok/thorragnarok_53.jpg,[0.       2.857511 7.643366 0.       ... 0.       3.411534 0.801463 0.      ],thorragnarok,20
+20,images/image_folders/thorragnarok/thorragnarok_20.jpg,[ 1.637659  0.        0.        0.       ...  2.783095 12.160751  0.        0.      ],thorragnarok,20
+21,images/image_folders/thorragnarok/thorragnarok_56.jpg,[3.430865 4.401821 0.       0.       ... 1.14183  0.       0.       1.12076 ],thorragnarok,20
+22,images/image_folders/thorragnarok/thorragnarok_32.jpg,[3.228489 0.       0.       0.       ... 0.074136 0.507216 0.392337 1.898602],thorragnarok,20
+23,images/image_folders/thorragnarok/thorragnarok_21.jpg,[0.       3.715019 0.       1.818411 ... 3.430004 0.       0.       4.810254],thorragnarok,20
+24,images/image_folders/thorragnarok/thorragnarok_58.jpg,[1.762434 0.766457 2.692527 0.       ... 0.       1.567468 5.04325  0.183342],thorragnarok,20
+25,images/image_folders/thorragnarok/thorragnarok_3.jpg,[8.644458 5.888828 0.152085 0.       ... 0.       0.       8.161487 0.841709],thorragnarok,20
+26,images/image_folders/thorragnarok/thorragnarok_17.jpg,[1.550206 0.       0.       7.464558 ... 3.924246 0.       0.       1.808246],thorragnarok,20
+27,images/image_folders/thorragnarok/thorragnarok_42.jpg,[0.       2.147081 3.40651  0.998957 ... 1.392805 0.       0.       0.945689],thorragnarok,20
+28,images/image_folders/thorragnarok/thorragnarok_24.jpg,[2.480803 0.       0.       0.       ... 0.       3.253437 3.149978 0.      ],thorragnarok,20
+29,images/image_folders/thorragnarok/thorragnarok_40.jpg,[ 0.        0.       12.215864  0.       ...  0.        0.        0.        4.242842],thorragnarok,20
+30,images/image_folders/thorragnarok/thorragnarok_36.jpg,[0.       1.394096 0.       0.       ... 0.       0.       3.600431 6.898558],thorragnarok,20
+31,images/image_folders/thorragnarok/thorragnarok_57.jpg,[3.093221 0.       6.471823 0.       ... 3.622439 1.870811 0.       3.133046],thorragnarok,20
+32,images/image_folders/thorragnarok/thorragnarok_49.jpg,[1.909055 0.       0.       0.       ... 0.       4.058662 8.919214 0.      ],thorragnarok,20
+33,images/image_folders/thorragnarok/thorragnarok_27.jpg,[0.       3.287215 0.562669 0.       ... 0.       0.       0.       0.      ],thorragnarok,20
+34,images/image_folders/thorragnarok/thorragnarok_70.jpg,[1.968744 2.713261 0.       3.554406 ... 0.       2.219418 0.       0.      ],thorragnarok,20
+35,images/image_folders/thorragnarok/thorragnarok_54.jpg,[0.       4.222581 0.       8.646459 ... 5.418227 0.       0.       3.480263],thorragnarok,20
+36,images/image_folders/thorragnarok/thorragnarok_66.jpg,[4.633135 0.       0.       0.       ... 0.       0.       0.       0.323312],thorragnarok,20
+37,images/image_folders/thorragnarok/thorragnarok_43.jpg,[ 0.        6.376944 11.120503  9.681138 ...  0.        8.530051  0.36604   0.      ],thorragnarok,20
+38,images/image_folders/thorragnarok/thorragnarok_52.jpg,[0.       1.638619 3.892634 1.700966 ... 0.       0.029218 6.20147  2.907451],thorragnarok,20
+39,images/image_folders/thorragnarok/thorragnarok_28.jpg,[3.894816 1.624765 0.       0.       ... 0.       4.42356  4.253249 3.041934],thorragnarok,20
+40,images/image_folders/thorragnarok/thorragnarok_11.jpg,[0.       0.       5.028483 1.368756 ... 0.       3.047845 4.016144 0.749854],thorragnarok,20
+41,images/image_folders/thorragnarok/thorragnarok_1.jpg,[0.       3.13936  2.6692   7.280978 ... 0.       0.       5.261624 4.721706],thorragnarok,20
+42,images/image_folders/thorragnarok/thorragnarok_64.jpg,[4.088231 0.       5.71518  1.113375 ... 4.652879 0.       0.       0.      ],thorragnarok,20
+43,images/image_folders/thorragnarok/thorragnarok_14.jpg,[0.       2.579231 0.       2.003174 ... 0.246753 0.       0.29355  0.      ],thorragnarok,20
+44,images/image_folders/thorragnarok/thorragnarok_34.jpg,[10.55303   0.        0.        0.       ...  0.524647  4.754353  5.235217  0.      ],thorragnarok,20
+45,images/image_folders/thorragnarok/thorragnarok_13.jpg,[0.       0.       2.050449 0.78977  ... 2.744077 2.528823 1.715559 4.980912],thorragnarok,20
+46,images/image_folders/thorragnarok/thorragnarok_16.jpg,[1.410178 1.009552 0.188877 0.       ... 0.       0.       5.737597 0.      ],thorragnarok,20
+47,images/image_folders/thorragnarok/thorragnarok_59.jpg,[0.       0.       0.       3.515414 ... 0.       0.       2.545318 3.357664],thorragnarok,20
+48,images/image_folders/thorragnarok/thorragnarok_46.jpg,[6.708686 0.       0.       3.541075 ... 0.       0.       0.171103 5.652963],thorragnarok,20
+49,images/image_folders/thorragnarok/thorragnarok_6.jpg,[0.       0.       6.109677 0.       ... 6.897099 2.250941 0.       0.      ],thorragnarok,20
+50,images/image_folders/thorragnarok/thorragnarok_29.jpg,[0.       5.313883 5.432254 0.342635 ... 3.511189 4.562959 0.       4.277767],thorragnarok,20
+51,images/image_folders/thorragnarok/thorragnarok_60.jpg,[2.028983 0.       7.899998 0.       ... 7.29404  3.547707 1.790361 0.      ],thorragnarok,20
+52,images/image_folders/thorragnarok/thorragnarok_38.jpg,[ 1.815987  0.        0.       10.835353 ...  0.        0.        0.        3.847455],thorragnarok,20
+53,images/image_folders/thorragnarok/thorragnarok_41.jpg,[8.153918 0.       0.       0.       ... 4.284975 3.390604 1.818989 0.      ],thorragnarok,20
+54,images/image_folders/thorragnarok/thorragnarok_45.jpg,[0.       1.07013  0.717919 5.414881 ... 3.979794 0.       0.       0.      ],thorragnarok,20
+55,images/image_folders/thorragnarok/thorragnarok_47.jpg,[0.       0.       6.836491 3.328014 ... 3.639709 2.744622 0.       3.062997],thorragnarok,20
+56,images/image_folders/thorragnarok/thorragnarok_9.jpg,[0.       3.938821 4.013812 2.594779 ... 4.241955 7.933973 0.       0.      ],thorragnarok,20
+57,images/image_folders/thorragnarok/thorragnarok_2.jpg,[0.       5.034602 8.318902 0.       ... 0.       1.88225  0.       0.      ],thorragnarok,20
+58,images/image_folders/thorragnarok/thorragnarok_50.jpg,[0.       0.43211  4.807942 4.067512 ... 3.745675 0.       2.522476 4.240222],thorragnarok,20
+59,images/image_folders/thorragnarok/thorragnarok_68.jpg,[ 7.836272  0.        0.        0.       ...  0.763762  5.396395 11.914011  0.      ],thorragnarok,20
+60,images/image_folders/thorragnarok/thorragnarok_15.jpg,[0.       4.523395 0.009495 0.544239 ... 5.099376 0.       1.316132 5.105955],thorragnarok,20
+61,images/image_folders/thorragnarok/thorragnarok_48.jpg,[1.669289 0.       0.278527 0.186796 ... 1.105721 3.062849 0.       0.      ],thorragnarok,20
+62,images/image_folders/thorragnarok/thorragnarok_44.jpg,[0.       1.641327 1.031163 5.327211 ... 0.       0.       0.       0.      ],thorragnarok,20
+63,images/image_folders/thorragnarok/thorragnarok_72.jpg,[ 0.895744  0.        1.878566  5.220266 ... 11.881269  0.        0.        0.      ],thorragnarok,20
+64,images/image_folders/thorragnarok/thorragnarok_26.jpg,[0.       0.723436 3.592474 0.       ... 0.       0.       0.       2.474842],thorragnarok,20
+65,images/image_folders/thor2darkworld/thor2darkworld_74.jpg,[2.968681 0.942995 0.       0.       ... 5.728026 0.       0.       0.      ],thor2darkworld,19
+66,images/image_folders/thor2darkworld/thor2darkworld_44.jpg,[0.       0.       2.477341 0.       ... 0.       0.       1.366975 0.700694],thor2darkworld,19
+67,images/image_folders/thor2darkworld/thor2darkworld_24.jpg,[0.       2.932023 1.249449 0.01777  ... 0.       0.       6.637358 1.437154],thor2darkworld,19
+68,images/image_folders/thor2darkworld/thor2darkworld_30.jpg,[0.       7.251659 1.802026 4.704543 ... 1.544642 0.       3.447346 0.740282],thor2darkworld,19
+69,images/image_folders/thor2darkworld/thor2darkworld_73.jpg,[0.       0.       3.455762 0.730155 ... 0.91563  7.336381 0.       0.      ],thor2darkworld,19
+70,images/image_folders/thor2darkworld/thor2darkworld_54.jpg,[0.       6.877993 2.280743 3.578166 ... 0.       1.47139  8.537106 4.942634],thor2darkworld,19
+71,images/image_folders/thor2darkworld/thor2darkworld_1.jpg,[0.888526 3.197553 3.022091 0.       ... 0.818237 3.554462 3.064285 5.188595],thor2darkworld,19
+72,images/image_folders/thor2darkworld/thor2darkworld_25.jpg,[1.939796 0.       8.014841 4.808542 ... 3.491207 2.931827 0.       1.455856],thor2darkworld,19
+73,images/image_folders/thor2darkworld/thor2darkworld_65.jpg,[2.566081 2.243349 0.       0.       ... 0.       3.993772 3.092344 0.      ],thor2darkworld,19
+74,images/image_folders/thor2darkworld/thor2darkworld_9.jpg,[0.       0.       3.653657 6.429107 ... 2.372435 0.       0.       1.653387],thor2darkworld,19
+75,images/image_folders/thor2darkworld/thor2darkworld_17.jpg,[2.30887  7.162808 0.02058  0.       ... 4.535467 0.       0.231255 3.09304 ],thor2darkworld,19
+76,images/image_folders/thor2darkworld/thor2darkworld_7.jpg,[0.267821 0.       0.       3.968219 ... 4.253609 0.       0.       0.      ],thor2darkworld,19
+77,images/image_folders/thor2darkworld/thor2darkworld_18.jpg,[0.       0.       7.543916 0.       ... 0.       6.809752 2.036238 0.      ],thor2darkworld,19
+78,images/image_folders/thor2darkworld/thor2darkworld_8.jpg,[0.       1.110354 0.       0.       ... 0.       0.       0.       0.886696],thor2darkworld,19
+79,images/image_folders/thor2darkworld/thor2darkworld_53.jpg,[0.615887 0.       0.       0.       ... 0.       0.030575 5.408931 4.507256],thor2darkworld,19
+80,images/image_folders/thor2darkworld/thor2darkworld_12.jpg,[3.626708 0.       0.       0.       ... 0.       0.       2.413539 0.120168],thor2darkworld,19
+81,images/image_folders/thor2darkworld/thor2darkworld_26.jpg,[0.       2.095501 6.212728 0.       ... 0.       0.       0.145611 2.165039],thor2darkworld,19
+82,images/image_folders/thor2darkworld/thor2darkworld_69.jpg,[2.527184 0.358101 0.64487  0.       ... 0.       2.442165 2.859531 0.      ],thor2darkworld,19
+83,images/image_folders/thor2darkworld/thor2darkworld_45.jpg,[0.840338 0.       0.       6.058531 ... 0.220765 0.648159 2.617736 3.61452 ],thor2darkworld,19
+84,images/image_folders/thor2darkworld/thor2darkworld_57.jpg,[1.466367 0.       0.       7.905543 ... 3.848117 0.       0.658644 3.872843],thor2darkworld,19
+85,images/image_folders/thor2darkworld/thor2darkworld_55.jpg,[4.005505 4.123716 0.       3.539399 ... 4.77046  0.       0.       0.      ],thor2darkworld,19
+86,images/image_folders/thor2darkworld/thor2darkworld_61.jpg,[4.088231 0.       5.715194 1.11337  ... 4.65287  0.       0.       0.      ],thor2darkworld,19
+87,images/image_folders/thor2darkworld/thor2darkworld_66.jpg,[0.027295 5.323895 0.       0.       ... 0.87653  1.584331 0.       0.      ],thor2darkworld,19
+88,images/image_folders/thor2darkworld/thor2darkworld_21.jpg,[4.678911 0.       0.       0.       ... 3.540719 7.617189 8.492057 0.      ],thor2darkworld,19
+89,images/image_folders/thor2darkworld/thor2darkworld_13.jpg,[ 0.       10.421483  8.083518  0.       ...  0.        1.860464  1.273594  0.      ],thor2darkworld,19
+90,images/image_folders/thor2darkworld/thor2darkworld_39.jpg,[ 0.        0.       15.099521  3.329905 ...  0.        3.097374  0.        3.693097],thor2darkworld,19
+91,images/image_folders/thor2darkworld/thor2darkworld_4.jpg,[5.287257 0.       0.       0.       ... 0.       4.089893 9.798882 3.332438],thor2darkworld,19
+92,images/image_folders/thor2darkworld/thor2darkworld_40.jpg,[0.       6.495271 0.       0.       ... 0.       3.771801 2.231456 3.738712],thor2darkworld,19
+93,images/image_folders/thor2darkworld/thor2darkworld_71.jpg,[4.325066 0.       0.       0.       ... 5.62838  4.795784 5.218057 0.      ],thor2darkworld,19
+94,images/image_folders/thor2darkworld/thor2darkworld_19.jpg,[0.       5.024592 3.414402 0.       ... 3.304081 0.       0.       0.      ],thor2darkworld,19
+95,images/image_folders/thor2darkworld/thor2darkworld_16.jpg,[0.       0.       6.901215 0.       ... 0.       0.       2.60971  3.214758],thor2darkworld,19
+96,images/image_folders/thor2darkworld/thor2darkworld_35.jpg,[3.310043 1.854107 0.       0.       ... 0.       2.832921 3.648395 1.700524],thor2darkworld,19
+97,images/image_folders/thor2darkworld/thor2darkworld_37.jpg,[ 0.32415  12.896502  6.400505  0.       ...  6.49769   0.        0.        0.29404 ],thor2darkworld,19
+98,images/image_folders/thor2darkworld/thor2darkworld_5.jpg,[4.081241 2.362318 0.       3.374308 ... 0.       0.       0.       0.      ],thor2darkworld,19
+99,images/image_folders/thor2darkworld/thor2darkworld_33.jpg,[5.647834 0.       0.       0.668751 ... 0.       3.01369  0.       1.217867],thor2darkworld,19
+100,images/image_folders/thor2darkworld/thor2darkworld_15.jpg,[0.       8.916563 4.449267 0.       ... 2.605607 0.       0.       0.      ],thor2darkworld,19
+101,images/image_folders/thor2darkworld/thor2darkworld_20.jpg,[0.       0.43867  6.375238 0.207492 ... 0.       0.       0.       0.      ],thor2darkworld,19
+102,images/image_folders/thor2darkworld/thor2darkworld_63.jpg,[1.991091 0.522579 0.       0.       ... 0.185206 0.       0.       0.      ],thor2darkworld,19
+103,images/image_folders/thor2darkworld/thor2darkworld_68.jpg,[11.272166  1.785364  0.        0.       ...  0.        6.819234  0.        0.      ],thor2darkworld,19
+104,images/image_folders/thor2darkworld/thor2darkworld_3.jpg,[0.014981 3.139168 0.       2.420096 ... 4.286243 0.       0.       0.778588],thor2darkworld,19
+105,images/image_folders/thor2darkworld/thor2darkworld_6.jpg,[4.141147 0.       0.       0.       ... 0.       3.299382 4.816289 1.763643],thor2darkworld,19
+106,images/image_folders/thor2darkworld/thor2darkworld_67.jpg,[0.       0.       3.4719   8.630897 ... 0.       0.       8.518177 4.432957],thor2darkworld,19
+107,images/image_folders/thor2darkworld/thor2darkworld_72.jpg,[0.       0.       1.103797 0.       ... 4.490696 0.       0.       1.196732],thor2darkworld,19
+108,images/image_folders/thor2darkworld/thor2darkworld_11.jpg,[0.       5.732637 7.551262 0.456912 ... 2.654905 2.396026 0.       0.      ],thor2darkworld,19
+109,images/image_folders/thor2darkworld/thor2darkworld_52.jpg,[0.       0.       4.686019 0.882343 ... 0.       4.275455 0.       0.      ],thor2darkworld,19
+110,images/image_folders/thor2darkworld/thor2darkworld_56.jpg,[0.       0.       0.       3.023851 ... 3.666098 0.       0.       0.531561],thor2darkworld,19
+111,images/image_folders/thor2darkworld/thor2darkworld_75.jpg,[2.493904 0.       0.       0.       ... 0.       1.377093 0.       1.532392],thor2darkworld,19
+112,images/image_folders/thor2darkworld/thor2darkworld_29.jpg,[1.743643 0.       0.240943 0.803647 ... 0.       5.87525  0.       0.      ],thor2darkworld,19
+113,images/image_folders/thor2darkworld/thor2darkworld_31.jpg,[10.014459  0.        0.        3.87547  ...  0.        1.949136  8.014239  1.490947],thor2darkworld,19
+114,images/image_folders/thor2darkworld/thor2darkworld_62.jpg,[0.82017  8.106356 0.       3.589964 ... 0.       0.       7.574285 0.      ],thor2darkworld,19
+115,images/image_folders/thor2darkworld/thor2darkworld_34.jpg,[ 0.        0.       11.527831  1.569233 ...  0.        3.972084  0.        0.      ],thor2darkworld,19
+116,images/image_folders/thor2darkworld/thor2darkworld_46.jpg,[2.305509 0.818023 0.       0.       ... 5.380984 0.       0.       0.      ],thor2darkworld,19
+117,images/image_folders/thor2darkworld/thor2darkworld_48.jpg,[3.28015  0.       1.5449   0.       ... 0.       0.3083   5.968133 0.628016],thor2darkworld,19
+118,images/image_folders/thor2darkworld/thor2darkworld_32.jpg,[1.971805 2.696006 0.       0.       ... 0.382554 0.505586 0.959399 0.759003],thor2darkworld,19
+119,images/image_folders/thor2darkworld/thor2darkworld_27.jpg,[0.       0.639995 4.213434 0.       ... 4.563084 0.       0.       0.      ],thor2darkworld,19
+120,images/image_folders/thor2darkworld/thor2darkworld_60.jpg,[11.516358  1.229529  0.        1.083579 ...  0.        3.195537 10.254403  0.      ],thor2darkworld,19
+121,images/image_folders/thor2darkworld/thor2darkworld_47.jpg,[0.       8.103236 0.395938 0.       ... 2.984206 0.       0.349374 1.381866],thor2darkworld,19
+122,images/image_folders/thor2darkworld/thor2darkworld_42.jpg,[0.       1.770712 0.270816 0.       ... 0.       2.821725 0.       2.400917],thor2darkworld,19
+123,images/image_folders/ironman2/ironman2_48.jpg,[0.       4.770761 1.736745 0.       ... 4.770629 0.       0.       0.987891],ironman2,14
+124,images/image_folders/ironman2/ironman2_38.jpg,[0.      0.      0.      0.      ... 0.      6.14324 0.59898 0.     ],ironman2,14
+125,images/image_folders/ironman2/ironman2_86.jpg,[0.       0.       0.       3.079684 ... 0.       4.238605 2.928777 1.253521],ironman2,14
+126,images/image_folders/ironman2/ironman2_62.jpg,[2.516198 0.72287  5.308879 0.635279 ... 5.216443 3.597266 0.       0.      ],ironman2,14
+127,images/image_folders/ironman2/ironman2_85.jpg,[3.901736 3.570001 1.471042 0.       ... 3.523854 1.53704  0.       0.      ],ironman2,14
+128,images/image_folders/ironman2/ironman2_58.jpg,[0.       4.27185  1.158215 1.063358 ... 0.389976 0.       0.       0.      ],ironman2,14
+129,images/image_folders/ironman2/ironman2_18.jpg,[8.469346 0.       0.       0.       ... 0.       6.908191 2.100684 3.859642],ironman2,14
+130,images/image_folders/ironman2/ironman2_6.jpg,[0.       0.       1.38753  2.134291 ... 2.759162 0.246727 0.       0.      ],ironman2,14
+131,images/image_folders/ironman2/ironman2_17.jpg,[0.       8.227355 5.48195  3.950339 ... 1.378036 1.828251 0.       2.281363],ironman2,14
+132,images/image_folders/ironman2/ironman2_73.jpg,[0.       0.       0.       0.821095 ... 0.       0.749998 0.       1.581633],ironman2,14
+133,images/image_folders/ironman2/ironman2_57.jpg,[0.593837 4.367589 7.795218 0.       ... 0.       1.889203 0.       0.      ],ironman2,14
+134,images/image_folders/ironman2/ironman2_81.jpg,[9.032815 0.669138 1.87934  0.       ... 3.602737 5.034084 0.       0.      ],ironman2,14
+135,images/image_folders/ironman2/ironman2_30.jpg,[7.771078 0.       0.       0.       ... 0.       3.094568 0.230623 0.      ],ironman2,14
+136,images/image_folders/ironman2/ironman2_55.jpg,[0.351125 0.       4.907135 0.       ... 3.398926 0.       0.       1.393234],ironman2,14
+137,images/image_folders/ironman2/ironman2_8.jpg,[0.       4.348115 2.396215 2.174473 ... 0.       3.688998 0.       0.      ],ironman2,14
+138,images/image_folders/ironman2/ironman2_10.jpg,[ 0.        4.936042  9.249145  2.340418 ...  0.        0.        0.       10.601131],ironman2,14
+139,images/image_folders/ironman2/ironman2_67.jpg,[3.1912   0.       0.120905 2.809913 ... 0.       5.433638 0.408809 4.837979],ironman2,14
+140,images/image_folders/ironman2/ironman2_56.jpg,[0.       0.       0.689198 1.537177 ... 3.973899 0.       0.       0.      ],ironman2,14
+141,images/image_folders/ironman2/ironman2_43.jpg,[ 0.973672  6.705552 10.229095  0.       ...  2.407834  0.        0.        0.157282],ironman2,14
+142,images/image_folders/ironman2/ironman2_9.jpg,[3.729722 7.673855 2.823388 0.       ... 1.956249 0.       7.884121 3.136128],ironman2,14
+143,images/image_folders/ironman2/ironman2_49.jpg,[0.       8.196983 0.715414 3.051519 ... 3.229742 0.       0.       3.922607],ironman2,14
+144,images/image_folders/ironman2/ironman2_87.jpg,[2.969226 0.915905 0.       0.       ... 2.91647  0.       0.       0.      ],ironman2,14
+145,images/image_folders/ironman2/ironman2_78.jpg,[0.       0.       0.       5.701703 ... 0.162853 2.194394 1.612901 0.      ],ironman2,14
+146,images/image_folders/ironman2/ironman2_41.jpg,[0.       6.312744 2.275267 2.716131 ... 0.       4.89942  0.836208 1.192144],ironman2,14
+147,images/image_folders/ironman2/ironman2_25.jpg,[0.392197 4.213586 3.230386 7.688123 ... 6.022791 5.968608 0.       3.443885],ironman2,14
+148,images/image_folders/ironman2/ironman2_3.jpg,[0.       4.016138 0.       7.959988 ... 3.931162 1.032374 0.       0.      ],ironman2,14
+149,images/image_folders/ironman2/ironman2_27.jpg,[2.453839 1.493469 0.       0.       ... 0.964386 0.       0.       0.      ],ironman2,14
+150,images/image_folders/ironman2/ironman2_51.jpg,[0.       2.224699 6.043946 3.636512 ... 0.       2.971504 6.151457 2.803351],ironman2,14
+151,images/image_folders/ironman2/ironman2_80.jpg,[8.686856 0.       0.       0.       ... 0.       3.569551 0.87086  1.111068],ironman2,14
+152,images/image_folders/ironman2/ironman2_89.jpg,[4.221606 0.       0.       1.536222 ... 0.       2.670098 5.334124 0.      ],ironman2,14
+153,images/image_folders/ironman2/ironman2_72.jpg,[0.03071  3.475371 2.82409  2.480917 ... 0.       5.018341 0.       4.021966],ironman2,14
+154,images/image_folders/ironman2/ironman2_70.jpg,[6.621235 0.       0.       2.282346 ... 0.       4.823261 1.135464 1.591067],ironman2,14
+155,images/image_folders/ironman2/ironman2_32.jpg,[5.939606 0.       0.       0.       ... 1.246022 5.629103 0.       0.      ],ironman2,14
+156,images/image_folders/ironman2/ironman2_50.jpg,[0.       0.       3.40334  6.240391 ... 0.       0.       0.       6.730066],ironman2,14
+157,images/image_folders/ironman2/ironman2_36.jpg,[0.       7.882199 6.376818 4.739667 ... 0.       8.146539 0.       2.165084],ironman2,14
+158,images/image_folders/ironman2/ironman2_35.jpg,[0.       3.905813 1.153944 0.939005 ... 5.927598 0.       0.       0.      ],ironman2,14
+159,images/image_folders/ironman2/ironman2_29.jpg,[12.124812  0.        0.        0.       ...  0.        2.730747 10.539062  5.368147],ironman2,14
+160,images/image_folders/ironman2/ironman2_26.jpg,[7.521769 0.       0.       1.85249  ... 0.       0.       5.603084 5.711411],ironman2,14
+161,images/image_folders/ironman2/ironman2_52.jpg,[3.3835   1.077312 2.530911 0.       ... 0.       0.       3.188842 0.      ],ironman2,14
+162,images/image_folders/ironman2/ironman2_34.jpg,[0.       8.926563 2.893847 0.       ... 0.799211 0.       6.481116 5.908585],ironman2,14
+163,images/image_folders/ironman2/ironman2_16.jpg,[0.       8.92988  3.727517 4.298897 ... 0.       0.       0.236952 0.      ],ironman2,14
+164,images/image_folders/ironman2/ironman2_45.jpg,[4.167407 0.       4.286129 1.701445 ... 0.547415 2.646207 1.793324 0.      ],ironman2,14
+165,images/image_folders/ironman2/ironman2_84.jpg,[0.       0.       0.       3.441303 ... 0.       0.       4.653362 7.661952],ironman2,14
+166,images/image_folders/ironman2/ironman2_4.jpg,[7.910718 0.       0.       2.39379  ... 3.198262 0.       4.58212  0.274762],ironman2,14
+167,images/image_folders/ironman2/ironman2_11.jpg,[ 2.342098  0.799733  0.        0.       ...  0.        6.686052  6.966087 11.41325 ],ironman2,14
+168,images/image_folders/ironman2/ironman2_63.jpg,[0.       3.029986 1.853035 1.322044 ... 0.       0.       0.080854 0.958049],ironman2,14
+169,images/image_folders/ironman2/ironman2_60.jpg,[0.       0.943941 0.747309 0.       ... 0.       3.691268 0.084559 0.      ],ironman2,14
+170,images/image_folders/ironman2/ironman2_88.jpg,[1.836619 1.799499 2.824716 0.       ... 0.374954 0.       0.       1.791089],ironman2,14
+171,images/image_folders/ironman2/ironman2_13.jpg,[0.       0.078708 2.966627 0.       ... 0.       0.       0.544703 3.443515],ironman2,14
+172,images/image_folders/ironman2/ironman2_1.jpg,[1.747182 0.878823 6.692929 0.       ... 5.134672 4.546293 0.       0.      ],ironman2,14
+173,images/image_folders/ironman2/ironman2_83.jpg,[1.17774  1.867005 8.077605 0.       ... 5.418004 0.       4.062283 4.899046],ironman2,14
+174,images/image_folders/ironman2/ironman2_28.jpg,[0.       0.       5.589889 3.157035 ... 0.       2.959142 1.164691 6.508338],ironman2,14
+175,images/image_folders/ironman2/ironman2_59.jpg,[0.       4.82744  0.478133 0.       ... 2.035895 0.       0.       0.      ],ironman2,14
+176,images/image_folders/ironman2/ironman2_42.jpg,[0.       0.       5.846467 0.       ... 2.920307 5.59009  0.       4.153766],ironman2,14
+177,images/image_folders/ironman2/ironman2_66.jpg,[0.       0.       6.314235 0.       ... 0.       1.889979 2.669944 3.198276],ironman2,14
+178,images/image_folders/ironman2/ironman2_37.jpg,[0.       0.312498 0.       0.099345 ... 0.       5.619425 2.367119 1.467371],ironman2,14
+179,images/image_folders/ironman2/ironman2_23.jpg,[0.       5.562047 0.       2.77269  ... 0.       1.293199 6.77816  3.505519],ironman2,14
+180,images/image_folders/ironman2/ironman2_2.jpg,[0.870656 1.736309 0.189261 0.       ... 3.263054 0.       0.       0.      ],ironman2,14
+181,images/image_folders/ironman2/ironman2_40.jpg,[ 8.386913  0.        0.        0.       ...  0.       10.427691 10.323704  9.986011],ironman2,14
+182,images/image_folders/ironman2/ironman2_77.jpg,[3.207195 8.497791 1.662047 0.       ... 5.212725 0.       0.       0.      ],ironman2,14
+183,images/image_folders/ironman2/ironman2_31.jpg,[ 0.        0.        2.017219  0.       ...  0.       10.09913   0.        5.114044],ironman2,14
+184,images/image_folders/ironman2/ironman2_64.jpg,[4.849274 0.       1.263617 1.779547 ... 0.       0.       0.       2.003341],ironman2,14
+185,images/image_folders/ironman2/ironman2_22.jpg,[ 0.        7.86857   3.696622 16.824211 ...  0.        3.428073  0.        0.      ],ironman2,14
+186,images/image_folders/ironman2/ironman2_82.jpg,[5.681263 0.       6.773617 0.       ... 0.047713 2.654392 0.       0.      ],ironman2,14
+187,images/image_folders/ironman2/ironman2_5.jpg,[1.358353 0.       0.       0.229409 ... 0.       8.061948 4.733777 6.693574],ironman2,14
+188,images/image_folders/ironman2/ironman2_68.jpg,[ 0.590478  6.95573  14.347416  2.532526 ...  0.215612  0.488     0.        2.938016],ironman2,14
+189,images/image_folders/ironman2/ironman2_47.jpg,[0.       0.       0.549307 0.295105 ... 0.       0.       1.011621 0.      ],ironman2,14
+190,images/image_folders/ironman2/ironman2_53.jpg,[ 0.        2.582658 12.155675  0.       ...  2.231732  1.932077  5.002562  0.      ],ironman2,14
+191,images/image_folders/ironman2/ironman2_54.jpg,[1.764366 3.971738 3.090768 0.       ... 0.       0.       0.       1.065489],ironman2,14
+192,images/image_folders/ironman2/ironman2_69.jpg,[ 1.775188  0.        0.       10.153103 ...  0.        3.062622  3.31414   0.      ],ironman2,14
+193,images/image_folders/ironman2/ironman2_7.jpg,[0.       0.       0.       5.085454 ... 9.815675 0.       0.980089 2.810148],ironman2,14
+194,images/image_folders/ironman2/ironman2_65.jpg,[0.       0.       4.363878 5.382552 ... 0.       4.105516 3.873014 4.208094],ironman2,14
+195,images/image_folders/ironman2/ironman2_21.jpg,[1.811389 0.       0.       0.       ... 0.152311 0.       0.       0.      ],ironman2,14
+196,images/image_folders/ironman2/ironman2_76.jpg,[0.       0.       0.296559 4.950037 ... 0.       3.104372 0.       0.699135],ironman2,14
+197,images/image_folders/ironman2/ironman2_74.jpg,[1.874055 8.500597 8.345378 0.       ... 3.47503  0.       0.       0.      ],ironman2,14
+198,images/image_folders/ironman2/ironman2_12.jpg,[0.133746 0.       5.865117 3.823704 ... 0.       4.008537 2.624011 1.790684],ironman2,14
+199,images/image_folders/ironman2/ironman2_24.jpg,[9.200615 0.       0.868506 0.       ... 0.       3.593523 0.       2.593472],ironman2,14
+200,images/image_folders/avengers3/avengers3_53.jpg,[1.032673 4.796952 0.57166  2.445941 ... 0.652456 0.       0.       0.      ],avengers3,4
+201,images/image_folders/avengers3/avengers3_18.jpg,[0.       0.       2.739042 0.       ... 0.       7.962912 0.       0.      ],avengers3,4
+202,images/image_folders/avengers3/avengers3_59.jpg,[0.782    3.025036 3.070643 0.       ... 0.536225 0.       0.198784 0.      ],avengers3,4
+203,images/image_folders/avengers3/avengers3_42.jpg,[ 2.775872  2.395984  0.        0.       ...  0.        5.257146 11.519416  4.277462],avengers3,4
+204,images/image_folders/avengers3/avengers3_41.jpg,[4.283127e+00 0.000000e+00 0.000000e+00 3.712076e+00 ... 0.000000e+00 8.823797e-04 4.611767e+00 4.185183e+00],avengers3,4
+205,images/image_folders/avengers3/avengers3_25.jpg,[ 0.841504  0.        4.988857  0.       ...  0.        2.020243  4.12981  13.457253],avengers3,4
+206,images/image_folders/avengers3/avengers3_36.jpg,[1.502306 2.323432 0.       0.       ... 0.966757 0.       0.       0.      ],avengers3,4
+207,images/image_folders/avengers3/avengers3_49.jpg,[2.285123 0.       0.       0.       ... 0.       1.90694  4.894933 0.      ],avengers3,4
+208,images/image_folders/avengers3/avengers3_69.jpg,[ 0.       10.473043  4.912891  7.712622 ...  2.752669  0.        0.        2.382112],avengers3,4
+209,images/image_folders/avengers3/avengers3_12.jpg,[3.378541 0.       0.       0.       ... 0.       4.221691 4.797051 4.585012],avengers3,4
+210,images/image_folders/avengers3/avengers3_54.jpg,[2.66632  0.       0.       0.       ... 0.       3.431449 4.902118 5.497677],avengers3,4
+211,images/image_folders/avengers3/avengers3_1.jpg,[0.       0.961083 8.019333 2.183892 ... 0.906713 0.       3.998012 3.556365],avengers3,4
+212,images/image_folders/avengers3/avengers3_22.jpg,[0.       5.139071 0.       0.       ... 0.       3.933436 3.446489 0.      ],avengers3,4
+213,images/image_folders/avengers3/avengers3_61.jpg,[0.       5.307623 5.703613 0.       ... 2.1894   5.758371 0.       0.      ],avengers3,4
+214,images/image_folders/avengers3/avengers3_31.jpg,[ 3.497772 10.108092  2.82742   0.       ...  4.399833  5.137306  0.        0.      ],avengers3,4
+215,images/image_folders/avengers3/avengers3_62.jpg,[0.       0.       0.       1.101725 ... 0.       4.899503 8.294686 5.056253],avengers3,4
+216,images/image_folders/avengers3/avengers3_65.jpg,[1.794551 0.065186 0.       0.269666 ... 0.       4.747888 0.       0.      ],avengers3,4
+217,images/image_folders/avengers3/avengers3_21.jpg,[0.       9.953014 0.       6.504483 ... 1.053171 0.       3.744001 4.061598],avengers3,4
+218,images/image_folders/avengers3/avengers3_14.jpg,[3.50418 0.      0.68207 0.      ... 3.11059 0.      0.      0.     ],avengers3,4
+219,images/image_folders/avengers3/avengers3_35.jpg,[ 0.        4.5603   10.945536  7.661325 ...  0.        0.        0.        1.254561],avengers3,4
+220,images/image_folders/avengers3/avengers3_23.jpg,[0.       3.474824 0.393211 0.       ... 4.334443 0.       3.684389 0.703905],avengers3,4
+221,images/image_folders/avengers3/avengers3_28.jpg,[0.       0.       0.       3.511064 ... 9.365182 0.       0.       1.620086],avengers3,4
+222,images/image_folders/avengers3/avengers3_10.jpg,[0.       8.868983 2.631113 0.450369 ... 0.       0.       0.       3.504762],avengers3,4
+223,images/image_folders/avengers3/avengers3_9.jpg,[1.589529 0.       0.       2.996437 ... 0.       3.669783 6.39712  0.      ],avengers3,4
+224,images/image_folders/avengers3/avengers3_60.jpg,[1.725842 4.353261 0.       0.       ... 1.223114 4.855224 1.05392  0.      ],avengers3,4
+225,images/image_folders/avengers3/avengers3_15.jpg,[0.       6.147455 1.419501 2.898534 ... 2.385799 5.995252 2.847098 3.507366],avengers3,4
+226,images/image_folders/avengers3/avengers3_29.jpg,[6.009688 4.873074 8.804321 0.       ... 0.       2.193251 1.717585 1.223087],avengers3,4
+227,images/image_folders/avengers3/avengers3_66.jpg,[1.069185 0.       2.867818 7.197594 ... 5.284188 1.795815 0.       0.      ],avengers3,4
+228,images/image_folders/avengers3/avengers3_5.jpg,[0.640641 0.       0.       9.375625 ... 0.       0.582293 0.       0.      ],avengers3,4
+229,images/image_folders/avengers3/avengers3_17.jpg,[3.131882 0.       0.       0.       ... 0.       0.356508 6.714234 1.084864],avengers3,4
+230,images/image_folders/avengers3/avengers3_4.jpg,[4.722467 0.       0.       0.       ... 0.       0.605846 5.907358 0.      ],avengers3,4
+231,images/image_folders/avengers3/avengers3_3.jpg,[0.       0.       0.       0.       ... 0.99502  0.       3.978994 5.84981 ],avengers3,4
+232,images/image_folders/avengers3/avengers3_46.jpg,[1.826538 0.       0.       0.       ... 0.205382 2.828942 0.       0.      ],avengers3,4
+233,images/image_folders/avengers3/avengers3_45.jpg,[4.31056  3.494011 1.452669 0.       ... 0.       0.       5.21918  0.      ],avengers3,4
+234,images/image_folders/avengers3/avengers3_30.jpg,[ 0.        2.575354  5.558276  0.35714  ...  0.181836 11.042522  0.        0.      ],avengers3,4
+235,images/image_folders/avengers3/avengers3_71.jpg,[9.153225 0.       0.       0.       ... 0.       1.964588 0.       3.877738],avengers3,4
+236,images/image_folders/avengers3/avengers3_56.jpg,[4.936111 1.640623 0.       0.       ... 0.       0.       1.17011  0.      ],avengers3,4
+237,images/image_folders/avengers3/avengers3_33.jpg,[2.015071 0.       3.566436 4.076772 ... 0.       3.619662 5.656749 0.      ],avengers3,4
+238,images/image_folders/avengers3/avengers3_2.jpg,[0.       6.937967 7.424458 3.418067 ... 0.       1.693627 0.737891 0.      ],avengers3,4
+239,images/image_folders/avengers3/avengers3_43.jpg,[2.901865 0.       6.830318 2.204018 ... 4.32894  0.       0.       0.      ],avengers3,4
+240,images/image_folders/avengers3/avengers3_24.jpg,[0.       1.096376 0.       1.308025 ... 0.       3.961968 0.       1.546934],avengers3,4
+241,images/image_folders/avengers3/avengers3_50.jpg,[0.       7.884078 5.009716 1.43225  ... 0.66749  2.50818  1.430977 0.      ],avengers3,4
+242,images/image_folders/avengers3/avengers3_38.jpg,[4.116308 0.       5.749894 1.191427 ... 4.636426 0.       0.       0.      ],avengers3,4
+243,images/image_folders/avengers3/avengers3_27.jpg,[4.301383 0.       2.802592 0.       ... 0.       1.013308 4.623291 5.617047],avengers3,4
+244,images/image_folders/avengers3/avengers3_57.jpg,[ 3.253182  0.        0.        4.154543 ...  1.387188  1.107855 12.182634  1.656945],avengers3,4
+245,images/image_folders/avengers3/avengers3_26.jpg,[2.960322 0.       0.       0.       ... 0.       4.735509 0.       5.319074],avengers3,4
+246,images/image_folders/avengers3/avengers3_68.jpg,[4.222316 0.       0.       2.994292 ... 0.       3.964074 0.       6.985826],avengers3,4
+247,images/image_folders/avengers3/avengers3_72.jpg,[6.476761 0.       0.       0.       ... 0.       2.570362 4.537062 0.      ],avengers3,4
+248,images/image_folders/avengers3/avengers3_47.jpg,[0.       0.       4.905859 0.       ... 0.396906 3.353786 8.250195 0.163696],avengers3,4
+249,images/image_folders/avengers3/avengers3_64.jpg,[6.880833 0.       0.       1.413016 ... 0.       5.327552 1.468943 0.      ],avengers3,4
+250,images/image_folders/avengers3/avengers3_13.jpg,[7.349839 0.       0.       0.       ... 0.       2.931436 1.519013 0.      ],avengers3,4
+251,images/image_folders/avengers3/avengers3_52.jpg,[0.402265 0.008352 0.       0.       ... 1.479776 7.094765 5.700304 0.562347],avengers3,4
+252,images/image_folders/avengers3/avengers3_48.jpg,[ 0.       12.870236  3.646711 10.034994 ...  2.953846  1.014643  6.337428  7.999521],avengers3,4
+253,images/image_folders/avengers3/avengers3_16.jpg,[0.52642  2.868017 0.644787 0.       ... 5.348537 0.       0.       1.869301],avengers3,4
+254,images/image_folders/avengers3/avengers3_40.jpg,[2.994553 0.       0.       2.029972 ... 0.868924 0.       0.       0.      ],avengers3,4
+255,images/image_folders/avengers3/avengers3_58.jpg,[0.       2.21704  1.097676 2.040322 ... 1.054518 0.       0.       0.      ],avengers3,4
+256,images/image_folders/avengers3/avengers3_37.jpg,[0.       6.216413 7.839988 0.981632 ... 0.918802 0.       0.       0.      ],avengers3,4
+257,images/image_folders/avengers3/avengers3_32.jpg,[0.269277 0.       0.       0.       ... 1.473256 0.       0.099506 0.570331],avengers3,4
+258,images/image_folders/drstrange/drstrange_21.jpg,[0.       5.131315 2.795158 0.       ... 2.178369 0.02732  0.       0.      ],drstrange,11
+259,images/image_folders/drstrange/drstrange_26.jpg,[3.165195 0.       0.       4.891096 ... 0.       0.       2.78774  0.      ],drstrange,11
+260,images/image_folders/drstrange/drstrange_19.jpg,[2.014779 0.       0.       0.       ... 0.       3.421262 1.718074 2.545612],drstrange,11
+261,images/image_folders/drstrange/drstrange_42.jpg,[0.       4.921977 6.586983 0.       ... 0.       0.       0.       0.      ],drstrange,11
+262,images/image_folders/drstrange/drstrange_24.jpg,[3.847584 8.018469 0.       3.179451 ... 0.       1.613289 1.863052 0.      ],drstrange,11
+263,images/image_folders/drstrange/drstrange_27.jpg,[0.       0.       0.       4.690577 ... 3.354356 0.       0.       0.      ],drstrange,11
+264,images/image_folders/drstrange/drstrange_15.jpg,[ 0.819809  0.        0.        0.       ...  0.377645  7.202285 11.499558  0.      ],drstrange,11
+265,images/image_folders/drstrange/drstrange_67.jpg,[0.340183 0.       0.       2.413103 ... 0.       0.498841 0.804908 4.025634],drstrange,11
+266,images/image_folders/drstrange/drstrange_36.jpg,[3.741805 0.       1.709734 0.       ... 0.       6.290199 0.623127 0.      ],drstrange,11
+267,images/image_folders/drstrange/drstrange_28.jpg,[0.       0.       0.       6.516768 ... 2.72885  0.       0.       0.1025  ],drstrange,11
+268,images/image_folders/drstrange/drstrange_48.jpg,[0.       5.348554 0.       1.403566 ... 0.       2.071728 0.       1.495628],drstrange,11
+269,images/image_folders/drstrange/drstrange_41.jpg,[1.865512 2.744426 2.42998  0.       ... 0.       3.56403  0.       0.      ],drstrange,11
+270,images/image_folders/drstrange/drstrange_38.jpg,[2.632054 0.       0.       0.       ... 5.482255 5.829611 8.523165 2.50748 ],drstrange,11
+271,images/image_folders/drstrange/drstrange_69.jpg,[ 0.        2.667101 11.347501  0.       ...  0.        4.023314  0.        2.409438],drstrange,11
+272,images/image_folders/drstrange/drstrange_18.jpg,[6.804186 0.       0.       0.       ... 2.972728 6.266078 0.       2.289625],drstrange,11
+273,images/image_folders/drstrange/drstrange_4.jpg,[7.594209 0.       0.       0.       ... 0.       8.724347 2.476083 0.      ],drstrange,11
+274,images/image_folders/drstrange/drstrange_46.jpg,[0.       3.310509 0.       0.       ... 3.880964 1.325158 4.59637  0.      ],drstrange,11
+275,images/image_folders/drstrange/drstrange_60.jpg,[0.       0.       4.885855 0.297865 ... 0.       0.       0.       7.308864],drstrange,11
+276,images/image_folders/drstrange/drstrange_20.jpg,[1.465424 2.974545 4.91473  0.       ... 7.277538 0.       0.       0.      ],drstrange,11
+277,images/image_folders/drstrange/drstrange_61.jpg,[0.       2.68074  4.025455 0.       ... 3.579344 0.       0.       0.      ],drstrange,11
+278,images/image_folders/drstrange/drstrange_54.jpg,[0.       0.304378 7.145575 0.       ... 0.       6.262586 0.       0.      ],drstrange,11
+279,images/image_folders/drstrange/drstrange_3.jpg,[8.524705 3.882329 0.       0.       ... 0.       1.220049 0.       1.817144],drstrange,11
+280,images/image_folders/drstrange/drstrange_37.jpg,[0.       0.       0.       0.       ... 1.920444 0.908929 0.       0.      ],drstrange,11
+281,images/image_folders/drstrange/drstrange_47.jpg,[3.647365 2.306602 0.       3.549042 ... 0.       0.       2.394336 7.175057],drstrange,11
+282,images/image_folders/drstrange/drstrange_17.jpg,[0.       4.803431 3.213872 9.511134 ... 0.       0.02151  1.892154 7.871356],drstrange,11
+283,images/image_folders/drstrange/drstrange_70.jpg,[4.088223 0.       5.715182 1.11339  ... 4.65287  0.       0.       0.      ],drstrange,11
+284,images/image_folders/drstrange/drstrange_5.jpg,[0.       0.494605 1.471727 3.554628 ... 3.067434 0.       0.       0.642579],drstrange,11
+285,images/image_folders/drstrange/drstrange_65.jpg,[ 7.529766  0.        0.        0.       ...  0.        4.369388  7.310387 11.269476],drstrange,11
+286,images/image_folders/drstrange/drstrange_33.jpg,[0.899389 0.       0.       0.       ... 3.314496 4.69221  3.252326 1.840569],drstrange,11
+287,images/image_folders/drstrange/drstrange_22.jpg,[0.       0.129939 2.923627 0.       ... 0.189742 0.       0.       0.020024],drstrange,11
+288,images/image_folders/drstrange/drstrange_23.jpg,[1.417134 0.       0.       2.285425 ... 0.       2.11116  0.       0.      ],drstrange,11
+289,images/image_folders/drstrange/drstrange_68.jpg,[0.       0.       2.788017 5.007056 ... 0.       0.409935 7.519249 5.912488],drstrange,11
+290,images/image_folders/drstrange/drstrange_50.jpg,[0.       2.393472 2.500101 7.590648 ... 3.598034 3.067539 0.       5.557179],drstrange,11
+291,images/image_folders/drstrange/drstrange_10.jpg,[ 0.232651  0.        0.        6.793634 ...  2.341668 10.193604  0.        0.      ],drstrange,11
+292,images/image_folders/drstrange/drstrange_11.jpg,[6.222509 0.385537 0.       0.042347 ... 0.       4.740132 0.       0.      ],drstrange,11
+293,images/image_folders/drstrange/drstrange_59.jpg,[1.915132 0.233453 0.       5.436114 ... 0.714089 0.       0.       0.      ],drstrange,11
+294,images/image_folders/drstrange/drstrange_14.jpg,[6.484781 0.       0.       0.       ... 0.       4.072495 5.137057 0.408435],drstrange,11
+295,images/image_folders/drstrange/drstrange_2.jpg,[2.990556 2.244434 2.066481 0.       ... 0.       5.035567 2.948896 0.      ],drstrange,11
+296,images/image_folders/drstrange/drstrange_12.jpg,[0.       0.       0.       6.782631 ... 0.       0.       8.344037 4.066462],drstrange,11
+297,images/image_folders/drstrange/drstrange_55.jpg,[5.385867 0.       0.       5.422028 ... 2.601913 0.       1.761143 0.      ],drstrange,11
+298,images/image_folders/drstrange/drstrange_6.jpg,[1.609222 0.417464 0.       0.       ... 0.       4.689841 0.       0.      ],drstrange,11
+299,images/image_folders/drstrange/drstrange_8.jpg,[ 1.857291  2.726112 10.668153  0.       ...  0.        0.        3.246925  0.      ],drstrange,11
+300,images/image_folders/drstrange/drstrange_40.jpg,[ 0.        6.015483 10.515473  0.30391  ...  0.        4.176175  0.        6.760856],drstrange,11
+301,images/image_folders/drstrange/drstrange_43.jpg,[0.       2.25761  0.       1.363634 ... 0.18855  2.90014  2.911139 3.611335],drstrange,11
+302,images/image_folders/drstrange/drstrange_31.jpg,[7.924268 0.       2.197412 0.       ... 0.       5.462785 0.       1.807016],drstrange,11
+303,images/image_folders/drstrange/drstrange_32.jpg,[0.       2.42641  4.105242 1.762906 ... 1.851245 0.       1.092228 1.423   ],drstrange,11
+304,images/image_folders/drstrange/drstrange_66.jpg,[2.497794 3.587859 5.273167 2.662918 ... 4.127451 3.880299 0.       0.      ],drstrange,11
+305,images/image_folders/drstrange/drstrange_34.jpg,[12.112958  0.        0.        0.       ...  4.77588   3.09599   0.        0.      ],drstrange,11
+306,images/image_folders/drstrange/drstrange_58.jpg,[0.016918 0.       2.064471 1.610597 ... 0.704268 1.511729 0.       0.      ],drstrange,11
+307,images/image_folders/drstrange/drstrange_62.jpg,[0.       1.529195 1.892594 1.631588 ... 0.       7.777225 0.       0.      ],drstrange,11
+308,images/image_folders/drstrange/drstrange_44.jpg,[2.737178 0.       0.       0.       ... 4.410045 0.       0.       0.      ],drstrange,11
+309,images/image_folders/drstrange/drstrange_25.jpg,[1.003386 0.718895 0.       2.262167 ... 0.       2.321793 0.015526 0.      ],drstrange,11
+310,images/image_folders/drstrange/drstrange_35.jpg,[0.       1.981582 2.991578 1.731043 ... 1.90113  2.745    0.       0.851139],drstrange,11
+311,images/image_folders/drstrange/drstrange_52.jpg,[1.655049 0.       0.       0.       ... 3.797653 0.       7.365264 0.      ],drstrange,11
+312,images/image_folders/drstrange/drstrange_7.jpg,[0.       0.       7.492743 2.231394 ... 0.882088 0.       1.722862 0.      ],drstrange,11
+313,images/image_folders/drstrange/drstrange_71.jpg,[0.250446 4.788609 5.875698 1.049356 ... 0.       0.45371  0.       0.      ],drstrange,11
+314,images/image_folders/guardians2/guardians2_55.jpg,[0.       0.       3.639974 5.122507 ... 0.       3.85762  8.184427 5.711213],guardians2,13
+315,images/image_folders/guardians2/guardians2_29.jpg,[0.       0.       2.922411 0.597249 ... 0.       0.       6.779219 4.745189],guardians2,13
+316,images/image_folders/guardians2/guardians2_69.jpg,[0.       5.515782 2.578164 2.212858 ... 6.512943 0.       0.097399 0.624432],guardians2,13
+317,images/image_folders/guardians2/guardians2_42.jpg,[ 0.118349  7.033668 11.159694  5.147307 ...  1.782623  2.112752  0.        0.874941],guardians2,13
+318,images/image_folders/guardians2/guardians2_14.jpg,[6.324656 0.       0.       2.122555 ... 0.       1.888319 1.692053 2.212281],guardians2,13
+319,images/image_folders/guardians2/guardians2_49.jpg,[3.034734 0.       2.024155 3.415278 ... 0.       4.736969 0.       3.442462],guardians2,13
+320,images/image_folders/guardians2/guardians2_9.jpg,[0.81911  1.034092 0.095613 0.744403 ... 4.587529 0.       0.       0.      ],guardians2,13
+321,images/image_folders/guardians2/guardians2_16.jpg,[8.823611 0.       1.979101 0.       ... 0.340148 6.121198 0.       6.795635],guardians2,13
+322,images/image_folders/guardians2/guardians2_23.jpg,[5.047306 3.091819 0.       0.879947 ... 0.       2.589759 0.       0.      ],guardians2,13
+323,images/image_folders/guardians2/guardians2_54.jpg,[4.443103 0.       0.       0.       ... 0.       4.575177 0.       0.      ],guardians2,13
+324,images/image_folders/guardians2/guardians2_53.jpg,[0.       8.345014 1.003863 0.       ... 9.886489 0.       0.       1.981151],guardians2,13
+325,images/image_folders/guardians2/guardians2_66.jpg,[0.       8.474054 3.786406 0.       ... 8.56452  0.       0.       3.679472],guardians2,13
+326,images/image_folders/guardians2/guardians2_25.jpg,[0.       9.033396 2.925708 0.       ... 0.       1.713874 5.421741 0.      ],guardians2,13
+327,images/image_folders/guardians2/guardians2_48.jpg,[ 1.857015  0.        0.        5.98099  ...  0.        9.619732  6.046981 10.714728],guardians2,13
+328,images/image_folders/guardians2/guardians2_70.jpg,[ 0.        1.71512   0.591898  0.       ...  0.       10.102464  0.566102  0.      ],guardians2,13
+329,images/image_folders/guardians2/guardians2_38.jpg,[6.554176 0.       0.       0.       ... 0.       3.164753 2.858145 0.      ],guardians2,13
+330,images/image_folders/guardians2/guardians2_2.jpg,[1.969548 0.       0.191824 5.016869 ... 0.674734 1.655746 6.125407 0.      ],guardians2,13
+331,images/image_folders/guardians2/guardians2_68.jpg,[ 0.        9.221528  0.       10.086087 ...  2.176276  0.        0.422241  0.      ],guardians2,13
+332,images/image_folders/guardians2/guardians2_37.jpg,[0.       3.962777 4.964275 0.815396 ... 0.       0.       0.       1.037064],guardians2,13
+333,images/image_folders/guardians2/guardians2_44.jpg,[0.       6.866197 4.949366 0.       ... 0.       0.       2.557308 0.268574],guardians2,13
+334,images/image_folders/guardians2/guardians2_51.jpg,[ 1.08948   0.        0.       10.135744 ...  0.        0.152497  0.        7.192918],guardians2,13
+335,images/image_folders/guardians2/guardians2_18.jpg,[ 0.        1.388053  0.        5.430438 ...  0.        7.172555  9.563251 10.716722],guardians2,13
+336,images/image_folders/guardians2/guardians2_43.jpg,[0.       4.25234  2.175688 0.       ... 1.9259   0.       3.580107 0.      ],guardians2,13
+337,images/image_folders/guardians2/guardians2_27.jpg,[1.353151 1.317817 0.       0.       ... 0.       3.181517 5.454939 0.      ],guardians2,13
+338,images/image_folders/guardians2/guardians2_21.jpg,[2.870436 0.       0.       0.       ... 0.       3.226614 3.071644 0.      ],guardians2,13
+339,images/image_folders/guardians2/guardians2_56.jpg,[ 4.671504  0.        0.        3.115499 ...  0.        6.51889   7.979558 10.355498],guardians2,13
+340,images/image_folders/guardians2/guardians2_24.jpg,[0.       1.57842  6.377314 0.       ... 0.       0.       0.       0.      ],guardians2,13
+341,images/image_folders/guardians2/guardians2_8.jpg,[4.302468 0.       0.       0.       ... 0.       8.290448 3.610638 1.209853],guardians2,13
+342,images/image_folders/guardians2/guardians2_47.jpg,[0.       8.00638  0.       2.794533 ... 4.518745 2.561231 0.80435  2.634843],guardians2,13
+343,images/image_folders/guardians2/guardians2_36.jpg,[0.       0.777083 0.       4.018771 ... 3.6456   8.226479 0.       4.297611],guardians2,13
+344,images/image_folders/guardians2/guardians2_4.jpg,[0.       2.285122 0.       0.       ... 9.803936 0.       4.758051 0.      ],guardians2,13
+345,images/image_folders/guardians2/guardians2_60.jpg,[0.       0.       3.123429 8.053245 ... 0.76362  0.       0.       4.694211],guardians2,13
+346,images/image_folders/guardians2/guardians2_63.jpg,[0.       7.639706 1.364726 2.356719 ... 0.       0.       0.206008 0.      ],guardians2,13
+347,images/image_folders/guardians2/guardians2_19.jpg,[0.117678 1.657455 8.184463 1.076848 ... 3.7836   1.389563 4.829379 6.502762],guardians2,13
+348,images/image_folders/guardians2/guardians2_46.jpg,[0.       0.       0.       4.229181 ... 0.094916 0.       3.317711 0.      ],guardians2,13
+349,images/image_folders/guardians2/guardians2_12.jpg,[1.059366 0.       6.129383 1.480974 ... 5.422015 0.       0.       0.      ],guardians2,13
+350,images/image_folders/guardians2/guardians2_59.jpg,[6.170397 0.486911 0.       0.       ... 0.143013 7.925363 0.       0.      ],guardians2,13
+351,images/image_folders/guardians2/guardians2_22.jpg,[7.255699 0.       0.       0.       ... 1.186953 0.554423 4.723446 0.      ],guardians2,13
+352,images/image_folders/guardians2/guardians2_35.jpg,[0.       2.435606 0.       4.157286 ... 0.       0.244481 0.       0.      ],guardians2,13
+353,images/image_folders/guardians2/guardians2_5.jpg,[0.       0.       0.       2.327188 ... 8.02354  0.       0.       0.      ],guardians2,13
+354,images/image_folders/guardians2/guardians2_50.jpg,[0.       0.       0.       2.104088 ... 5.868833 0.       0.871055 2.052612],guardians2,13
+355,images/image_folders/guardians2/guardians2_13.jpg,[2.049903 0.       0.       0.       ... 0.       5.660243 0.       1.653947],guardians2,13
+356,images/image_folders/guardians2/guardians2_15.jpg,[0.172424 0.       0.537319 4.00625  ... 0.       4.156342 1.467577 5.463004],guardians2,13
+357,images/image_folders/guardians2/guardians2_30.jpg,[9.439693 0.       0.       0.       ... 0.       0.       7.073901 2.659081],guardians2,13
+358,images/image_folders/guardians2/guardians2_41.jpg,[ 0.       10.91279   3.247146  1.410816 ...  0.601747  0.072466  0.834665  2.488675],guardians2,13
+359,images/image_folders/guardians2/guardians2_7.jpg,[0.       0.       0.508877 1.235982 ... 0.       4.070627 0.       3.370538],guardians2,13
+360,images/image_folders/guardians2/guardians2_64.jpg,[3.382747 0.       0.       0.       ... 0.       3.64576  1.960447 0.      ],guardians2,13
+361,images/image_folders/guardians2/guardians2_11.jpg,[0.       0.593562 0.192497 1.613366 ... 8.36825  2.998237 0.       7.489787],guardians2,13
+362,images/image_folders/guardians2/guardians2_61.jpg,[0.       0.730618 4.973784 1.256193 ... 1.95896  0.       0.       0.350146],guardians2,13
+363,images/image_folders/guardians2/guardians2_20.jpg,[0.       0.       7.324901 0.799006 ... 4.131137 0.165145 0.       0.      ],guardians2,13
+364,images/image_folders/guardians2/guardians2_67.jpg,[4.968588 3.733344 0.       0.       ... 3.689353 1.732589 6.676537 3.758434],guardians2,13
+365,images/image_folders/guardians2/guardians2_40.jpg,[8.874035 0.       0.       0.358053 ... 0.       3.617471 9.56415  8.527368],guardians2,13
+366,images/image_folders/guardians2/guardians2_33.jpg,[0.89501  1.157503 0.       0.       ... 1.359504 0.       1.453362 0.      ],guardians2,13
+367,images/image_folders/guardians2/guardians2_28.jpg,[3.841138 0.       1.672188 0.       ... 0.       4.815906 0.       1.301659],guardians2,13
+368,images/image_folders/guardians2/guardians2_39.jpg,[0.       2.766585 0.       0.       ... 4.210792 0.       0.       0.      ],guardians2,13
+369,images/image_folders/guardians2/guardians2_26.jpg,[0.774187 4.496071 0.       0.       ... 7.838422 0.       0.       1.650303],guardians2,13
+370,images/image_folders/avengers2/avengers2_66.jpg,[2.602888 0.       0.       6.645813 ... 0.       0.659354 0.642566 0.      ],avengers2,3
+371,images/image_folders/avengers2/avengers2_60.jpg,[0.       5.298224 0.095627 0.       ... 4.198033 3.094582 0.       2.296302],avengers2,3
+372,images/image_folders/avengers2/avengers2_67.jpg,[0.064078 0.860701 0.       8.78836  ... 0.       3.114498 5.114487 2.924073],avengers2,3
+373,images/image_folders/avengers2/avengers2_15.jpg,[4.918896e+00 0.000000e+00 0.000000e+00 0.000000e+00 ... 2.554663e-03 7.456404e+00 1.834742e+00 0.000000e+00],avengers2,3
+374,images/image_folders/avengers2/avengers2_54.jpg,[0.       1.868315 0.441348 0.       ... 7.102686 0.       1.488117 1.540092],avengers2,3
+375,images/image_folders/avengers2/avengers2_9.jpg,[1.833613 0.       0.063634 0.       ... 3.361667 0.       0.438895 0.      ],avengers2,3
+376,images/image_folders/avengers2/avengers2_27.jpg,[2.404668 0.       0.       0.       ... 0.048721 4.047679 0.633091 1.895624],avengers2,3
+377,images/image_folders/avengers2/avengers2_43.jpg,[0.       3.696638 9.007499 0.       ... 0.       0.230863 0.       0.      ],avengers2,3
+378,images/image_folders/avengers2/avengers2_36.jpg,[1.099554 0.       0.       0.       ... 2.079721 0.       0.       0.      ],avengers2,3
+379,images/image_folders/avengers2/avengers2_68.jpg,[4.221606 0.       0.       3.689976 ... 0.       1.92274  0.509066 2.568687],avengers2,3
+380,images/image_folders/avengers2/avengers2_48.jpg,[1.942693 1.797233 1.437394 0.       ... 0.864137 0.       1.363267 1.722223],avengers2,3
+381,images/image_folders/avengers2/avengers2_3.jpg,[2.655062 0.       0.       3.82425  ... 0.236587 0.       0.       0.974034],avengers2,3
+382,images/image_folders/avengers2/avengers2_16.jpg,[7.720754 2.879562 0.       0.       ... 2.225034 1.31875  3.301452 0.      ],avengers2,3
+383,images/image_folders/avengers2/avengers2_18.jpg,[0.       6.991512 4.590056 1.716796 ... 0.       4.587347 0.       2.317543],avengers2,3
+384,images/image_folders/avengers2/avengers2_39.jpg,[0.       6.829893 6.871998 0.       ... 0.       5.417742 2.866993 0.      ],avengers2,3
+385,images/image_folders/avengers2/avengers2_55.jpg,[0.       8.582952 4.90601  0.       ... 0.       0.       0.       0.      ],avengers2,3
+386,images/image_folders/avengers2/avengers2_30.jpg,[5.59102  0.       0.       1.635597 ... 0.       0.598212 7.895198 6.283281],avengers2,3
+387,images/image_folders/avengers2/avengers2_13.jpg,[10.833016  0.        0.        0.       ...  2.37049   5.597885  1.327903  0.      ],avengers2,3
+388,images/image_folders/avengers2/avengers2_28.jpg,[6.083101 0.       0.       0.       ... 0.       3.803729 0.133924 0.      ],avengers2,3
+389,images/image_folders/avengers2/avengers2_57.jpg,[0.       3.07006  2.510271 0.       ... 0.       4.190251 1.555169 7.372818],avengers2,3
+390,images/image_folders/avengers2/avengers2_31.jpg,[7.029303 0.       0.       0.       ... 0.       2.270011 1.568888 2.483964],avengers2,3
+391,images/image_folders/avengers2/avengers2_21.jpg,[1.262192 0.       0.       0.       ... 0.       4.408439 7.080853 0.389078],avengers2,3
+392,images/image_folders/avengers2/avengers2_56.jpg,[0.374223 4.2479   5.825342 0.575452 ... 1.336302 2.863614 0.       0.      ],avengers2,3
+393,images/image_folders/avengers2/avengers2_17.jpg,[ 0.        0.       12.160867  3.991785 ...  0.        6.857482  0.244084  0.      ],avengers2,3
+394,images/image_folders/avengers2/avengers2_69.jpg,[5.231858 0.       0.       0.       ... 3.061967 0.       0.       0.      ],avengers2,3
+395,images/image_folders/avengers2/avengers2_5.jpg,[2.364978 0.       0.       0.       ... 0.       6.431237 5.484396 2.280305],avengers2,3
+396,images/image_folders/avengers2/avengers2_45.jpg,[1.080067 0.       0.       0.640325 ... 0.       6.665554 5.179526 3.389584],avengers2,3
+397,images/image_folders/avengers2/avengers2_70.jpg,[9.586002 1.025679 0.       0.       ... 2.424814 2.68308  2.071895 0.      ],avengers2,3
+398,images/image_folders/avengers2/avengers2_37.jpg,[ 0.        0.        0.       10.688128 ...  0.        0.        0.        4.948576],avengers2,3
+399,images/image_folders/avengers2/avengers2_49.jpg,[0.       0.       0.       0.       ... 0.       2.139069 0.       1.254602],avengers2,3
+400,images/image_folders/avengers2/avengers2_26.jpg,[ 1.565697 10.290078  8.150352  0.       ...  2.940713  0.        1.653132  3.076048],avengers2,3
+401,images/image_folders/avengers2/avengers2_50.jpg,[3.99575  0.       0.       0.       ... 0.       1.317865 2.853302 0.      ],avengers2,3
+402,images/image_folders/avengers2/avengers2_34.jpg,[0.       0.       0.       2.401264 ... 6.32775  1.467695 0.580962 0.      ],avengers2,3
+403,images/image_folders/avengers2/avengers2_19.jpg,[0.       7.041825 0.064457 6.32014  ... 0.       0.826265 0.       0.      ],avengers2,3
+404,images/image_folders/avengers2/avengers2_29.jpg,[0.875293 0.       0.322973 0.820773 ... 5.954966 0.       0.       0.      ],avengers2,3
+405,images/image_folders/avengers2/avengers2_35.jpg,[0.       9.187545 9.271109 0.       ... 8.765276 0.       0.       5.165483],avengers2,3
+406,images/image_folders/avengers2/avengers2_65.jpg,[0.       7.338421 5.816257 1.413553 ... 0.       3.000244 0.       5.818043],avengers2,3
+407,images/image_folders/avengers2/avengers2_8.jpg,[4.521673 0.       0.       0.       ... 0.       0.298635 1.661056 0.      ],avengers2,3
+408,images/image_folders/avengers2/avengers2_59.jpg,[1.201869 0.037945 0.       1.412729 ... 0.       2.373359 1.032539 0.      ],avengers2,3
+409,images/image_folders/avengers2/avengers2_72.jpg,[2.401197 0.       4.350327 2.854427 ... 0.       3.634442 4.876442 6.386571],avengers2,3
+410,images/image_folders/avengers2/avengers2_24.jpg,[2.763653 0.       0.       0.       ... 0.29016  2.12036  0.       0.      ],avengers2,3
+411,images/image_folders/avengers2/avengers2_7.jpg,[1.493422 0.835542 4.189528 0.651711 ... 0.       0.       0.       0.      ],avengers2,3
+412,images/image_folders/avengers2/avengers2_73.jpg,[0.       2.446717 6.874989 0.       ... 0.       0.       5.175524 3.803716],avengers2,3
+413,images/image_folders/avengers2/avengers2_40.jpg,[0.       0.       0.       2.873147 ... 6.388554 5.48946  0.       5.276134],avengers2,3
+414,images/image_folders/avengers2/avengers2_25.jpg,[0.       0.       0.       4.923373 ... 2.321755 0.       0.       0.      ],avengers2,3
+415,images/image_folders/avengers2/avengers2_2.jpg,[1.553418 0.969366 0.       6.016728 ... 1.649756 0.805707 0.       0.      ],avengers2,3
+416,images/image_folders/avengers2/avengers2_61.jpg,[2.117731 0.       6.464447 1.836979 ... 0.       5.727914 4.239181 0.535494],avengers2,3
+417,images/image_folders/avengers2/avengers2_53.jpg,[0.       4.201214 2.922954 0.       ... 6.868097 0.       0.       0.      ],avengers2,3
+418,images/image_folders/avengers2/avengers2_52.jpg,[0.       2.513673 3.966092 0.       ... 0.       0.       0.       4.292559],avengers2,3
+419,images/image_folders/avengers2/avengers2_71.jpg,[0.       1.874368 1.306815 0.       ... 0.       5.466301 0.       0.      ],avengers2,3
+420,images/image_folders/avengers2/avengers2_10.jpg,[0.       0.       3.380965 2.940787 ... 0.       1.694925 0.       2.14649 ],avengers2,3
+421,images/image_folders/avengers2/avengers2_62.jpg,[2.717008 0.       0.       0.       ... 0.       0.445366 8.929609 1.567676],avengers2,3
+422,images/image_folders/avengers2/avengers2_1.jpg,[ 0.437457  3.658439  0.        8.182199 ...  0.        2.08199  12.758185  0.      ],avengers2,3
+423,images/image_folders/avengers2/avengers2_23.jpg,[0.       1.279949 3.582818 1.832302 ... 0.       4.777781 0.       0.      ],avengers2,3
+424,images/image_folders/avengers2/avengers2_63.jpg,[0.       0.       6.878152 3.03606  ... 0.       0.       0.       9.977672],avengers2,3
+425,images/image_folders/avengers2/avengers2_74.jpg,[0.       0.       6.947631 0.       ... 0.       0.       0.       0.      ],avengers2,3
+426,images/image_folders/avengers2/avengers2_38.jpg,[ 5.662178  0.        0.        0.       ...  0.       11.933096  4.746011  0.231943],avengers2,3
+427,images/image_folders/spiderverse/spiderverse_65.jpg,[0.       0.       5.681956 0.694331 ... 0.       0.       0.       0.      ],spiderverse,17
+428,images/image_folders/spiderverse/spiderverse_61.jpg,[0.       0.238693 0.       0.       ... 0.       1.504782 2.767125 0.      ],spiderverse,17
+429,images/image_folders/spiderverse/spiderverse_13.jpg,[3.415719 0.       3.421718 0.       ... 5.692074 0.535969 4.933723 3.40612 ],spiderverse,17
+430,images/image_folders/spiderverse/spiderverse_26.jpg,[0.       0.       0.       0.       ... 0.       6.275381 3.641102 8.586287],spiderverse,17
+431,images/image_folders/spiderverse/spiderverse_63.jpg,[0.       2.774877 4.491032 0.       ... 0.       1.531209 0.       0.      ],spiderverse,17
+432,images/image_folders/spiderverse/spiderverse_15.jpg,[2.11044  1.237237 8.794939 0.       ... 1.198484 0.834192 0.       0.      ],spiderverse,17
+433,images/image_folders/spiderverse/spiderverse_73.jpg,[0.173694 3.376979 9.616136 8.360099 ... 1.573308 0.       0.       4.46342 ],spiderverse,17
+434,images/image_folders/spiderverse/spiderverse_60.jpg,[0.       0.521864 1.866559 7.839594 ... 1.464646 0.       0.       3.288296],spiderverse,17
+435,images/image_folders/spiderverse/spiderverse_74.jpg,[0.       0.       7.946773 7.504918 ... 0.       3.308665 0.       1.00222 ],spiderverse,17
+436,images/image_folders/spiderverse/spiderverse_46.jpg,[4.363871 0.       6.650535 0.699089 ... 0.       4.93387  6.002377 8.114564],spiderverse,17
+437,images/image_folders/spiderverse/spiderverse_7.jpg,[3.416303 1.088265 0.       0.       ... 0.       5.279302 0.       0.      ],spiderverse,17
+438,images/image_folders/spiderverse/spiderverse_33.jpg,[0.       4.617281 4.515033 0.       ... 0.       0.       0.       0.      ],spiderverse,17
+439,images/image_folders/spiderverse/spiderverse_11.jpg,[0.       2.306526 0.       3.809213 ... 2.019942 0.       0.       0.      ],spiderverse,17
+440,images/image_folders/spiderverse/spiderverse_62.jpg,[0.       0.722677 0.       9.008345 ... 0.       5.129535 0.       1.464464],spiderverse,17
+441,images/image_folders/spiderverse/spiderverse_64.jpg,[ 6.338843  3.521969  0.        0.720832 ...  0.        0.       12.040395  1.96222 ],spiderverse,17
+442,images/image_folders/spiderverse/spiderverse_49.jpg,[1.880865 8.698184 0.       0.       ... 0.       0.       3.391703 0.      ],spiderverse,17
+443,images/image_folders/spiderverse/spiderverse_66.jpg,[0.       5.227576 7.226093 0.       ... 0.       0.       2.540815 1.181446],spiderverse,17
+444,images/image_folders/spiderverse/spiderverse_23.jpg,[7.475013 0.       0.       0.460014 ... 0.       2.416073 0.       4.40869 ],spiderverse,17
+445,images/image_folders/spiderverse/spiderverse_8.jpg,[0.213267 6.652159 7.099291 0.       ... 0.       1.087719 2.59627  0.      ],spiderverse,17
+446,images/image_folders/spiderverse/spiderverse_52.jpg,[5.490621 0.       0.       0.       ... 2.660446 0.19925  1.465918 0.      ],spiderverse,17
+447,images/image_folders/spiderverse/spiderverse_82.jpg,[5.315744 8.002325 0.       0.       ... 0.       5.333131 0.648164 0.319956],spiderverse,17
+448,images/image_folders/spiderverse/spiderverse_12.jpg,[2.729114 1.104056 0.       0.       ... 0.60908  0.       1.035516 1.48447 ],spiderverse,17
+449,images/image_folders/spiderverse/spiderverse_76.jpg,[0.       8.5698   1.820946 4.421374 ... 0.252943 0.       1.066535 2.980696],spiderverse,17
+450,images/image_folders/spiderverse/spiderverse_68.jpg,[0.027643 0.       1.733279 0.       ... 3.042496 7.247916 0.       0.347167],spiderverse,17
+451,images/image_folders/spiderverse/spiderverse_32.jpg,[4.651485 6.659051 3.756073 0.       ... 1.661956 0.       0.       0.      ],spiderverse,17
+452,images/image_folders/spiderverse/spiderverse_50.jpg,[ 3.516318  0.       11.891646  4.863191 ...  4.845571  1.326383  0.        3.119288],spiderverse,17
+453,images/image_folders/spiderverse/spiderverse_69.jpg,[0.       7.015129 0.       1.908517 ... 0.893023 1.341892 0.       0.32749 ],spiderverse,17
+454,images/image_folders/spiderverse/spiderverse_24.jpg,[4.953771 0.       0.       0.       ... 0.       4.107236 0.       2.713657],spiderverse,17
+455,images/image_folders/spiderverse/spiderverse_37.jpg,[6.047126 0.       0.       3.877388 ... 0.       3.82533  0.634839 0.      ],spiderverse,17
+456,images/image_folders/spiderverse/spiderverse_34.jpg,[5.45505  0.       0.       0.248854 ... 0.       1.825459 2.392778 5.111026],spiderverse,17
+457,images/image_folders/spiderverse/spiderverse_3.jpg,[9.751452 0.       0.       0.       ... 0.       6.200725 0.       0.      ],spiderverse,17
+458,images/image_folders/spiderverse/spiderverse_6.jpg,[0.       0.       0.       5.051622 ... 0.21792  0.       1.344696 2.879503],spiderverse,17
+459,images/image_folders/spiderverse/spiderverse_54.jpg,[ 0.       10.041389  8.566919  0.       ...  1.159778  0.        0.334219  0.      ],spiderverse,17
+460,images/image_folders/spiderverse/spiderverse_25.jpg,[2.775455 0.       0.       0.       ... 0.       0.519304 0.       0.      ],spiderverse,17
+461,images/image_folders/spiderverse/spiderverse_17.jpg,[0.       5.733783 3.96272  3.161293 ... 3.890696 0.       0.       0.      ],spiderverse,17
+462,images/image_folders/spiderverse/spiderverse_30.jpg,[5.641583 5.56807  4.81611  0.       ... 1.503137 0.       0.061947 3.296681],spiderverse,17
+463,images/image_folders/spiderverse/spiderverse_51.jpg,[0.273318 1.731246 0.       0.       ... 2.907083 0.       0.       0.      ],spiderverse,17
+464,images/image_folders/spiderverse/spiderverse_57.jpg,[0.       0.       6.625466 0.       ... 1.021198 0.       0.       1.158252],spiderverse,17
+465,images/image_folders/spiderverse/spiderverse_28.jpg,[0.       1.969735 4.05223  0.64095  ... 0.       0.       0.       0.      ],spiderverse,17
+466,images/image_folders/spiderverse/spiderverse_81.jpg,[0.       3.967142 3.934427 6.323228 ... 0.913321 6.090135 0.       0.      ],spiderverse,17
+467,images/image_folders/spiderverse/spiderverse_47.jpg,[5.759728 0.       0.       0.       ... 0.       1.120106 1.05585  0.      ],spiderverse,17
+468,images/image_folders/spiderverse/spiderverse_71.jpg,[0.       0.       1.384834 1.227045 ... 0.658841 0.       0.       2.685378],spiderverse,17
+469,images/image_folders/spiderverse/spiderverse_9.jpg,[0.       2.761647 3.899035 4.678189 ... 2.76168  5.194531 0.       0.      ],spiderverse,17
+470,images/image_folders/spiderverse/spiderverse_40.jpg,[0.       2.937686 3.882976 0.       ... 3.972654 0.       3.995765 7.775728],spiderverse,17
+471,images/image_folders/spiderverse/spiderverse_48.jpg,[0.       1.784982 0.       5.32205  ... 0.22805  1.931006 0.       1.125889],spiderverse,17
+472,images/image_folders/spiderverse/spiderverse_44.jpg,[0.       4.867604 4.470868 3.944718 ... 2.414058 0.       0.210329 6.537676],spiderverse,17
+473,images/image_folders/spiderverse/spiderverse_72.jpg,[0.       2.758598 0.       5.220047 ... 0.       1.78938  0.       0.334581],spiderverse,17
+474,images/image_folders/spiderverse/spiderverse_45.jpg,[0.       1.288049 0.       6.122352 ... 5.377777 0.       0.       0.      ],spiderverse,17
+475,images/image_folders/spiderverse/spiderverse_43.jpg,[0.       3.034431 0.958448 0.       ... 3.625248 0.       0.       0.      ],spiderverse,17
+476,images/image_folders/spiderverse/spiderverse_79.jpg,[2.493434 0.       0.       0.       ... 0.       0.       6.643026 0.151261],spiderverse,17
+477,images/image_folders/spiderverse/spiderverse_5.jpg,[4.765939 6.855058 0.       0.257657 ... 0.180536 1.925133 3.083825 2.047276],spiderverse,17
+478,images/image_folders/spiderverse/spiderverse_58.jpg,[0.       9.98535  2.866312 2.218231 ... 1.553694 0.       0.507828 4.461401],spiderverse,17
+479,images/image_folders/spiderverse/spiderverse_16.jpg,[2.542145 0.       0.       5.170569 ... 0.651669 0.       0.       0.      ],spiderverse,17
+480,images/image_folders/spiderverse/spiderverse_2.jpg,[2.209227 6.65181  0.       4.43757  ... 1.918287 0.       0.       0.199226],spiderverse,17
+481,images/image_folders/spiderverse/spiderverse_67.jpg,[0.       1.937958 0.749055 0.       ... 9.247355 1.322034 0.       0.      ],spiderverse,17
+482,images/image_folders/spiderverse/spiderverse_70.jpg,[1.310702 3.786798 1.034487 0.683176 ... 5.788461 0.       0.       0.      ],spiderverse,17
+483,images/image_folders/spiderverse/spiderverse_53.jpg,[0.       0.131313 0.       0.       ... 6.324872 5.156273 5.78386  8.320217],spiderverse,17
+484,images/image_folders/spiderverse/spiderverse_22.jpg,[ 2.88716   0.        0.       11.259542 ...  0.        1.94201   2.775708  2.785141],spiderverse,17
+485,images/image_folders/spiderverse/spiderverse_38.jpg,[0.       5.426167 9.316501 6.521171 ... 0.       5.965083 2.331636 0.      ],spiderverse,17
+486,images/image_folders/spiderverse/spiderverse_39.jpg,[5.251477 0.       0.       1.945376 ... 2.689412 0.       0.       0.      ],spiderverse,17
+487,images/image_folders/spiderverse/spiderverse_20.jpg,[2.710897 0.       0.       0.       ... 0.       0.       2.683054 0.374045],spiderverse,17
+488,images/image_folders/spiderverse/spiderverse_80.jpg,[0.       0.225864 9.439554 0.143765 ... 7.028476 7.942055 0.74723  0.      ],spiderverse,17
+489,images/image_folders/spiderverse/spiderverse_1.jpg,[ 0.        0.        3.851212  0.       ...  0.894978 12.946032  0.        4.468199],spiderverse,17
+490,images/image_folders/spiderverse/spiderverse_78.jpg,[1.635094 0.       6.186728 3.591756 ... 2.834944 0.902656 0.       0.      ],spiderverse,17
+491,images/image_folders/antman1/antman1_1.jpg,[ 0.       10.410579  3.668763  0.425501 ...  1.676528  0.042723  0.        0.      ],antman1,0
+492,images/image_folders/antman1/antman1_63.jpg,[1.01552  4.26921  0.       5.013684 ... 5.637373 1.360181 1.263146 4.322975],antman1,0
+493,images/image_folders/antman1/antman1_38.jpg,[2.199444 0.       0.       1.278429 ... 0.       4.541817 0.       3.084812],antman1,0
+494,images/image_folders/antman1/antman1_3.jpg,[2.789007 0.       0.       2.643512 ... 0.       0.       1.77307  0.      ],antman1,0
+495,images/image_folders/antman1/antman1_15.jpg,[8.03307  0.       0.       0.       ... 0.       6.371347 6.416983 2.049383],antman1,0
+496,images/image_folders/antman1/antman1_23.jpg,[0.323843 0.822334 0.       9.850856 ... 0.       0.       6.316779 5.554571],antman1,0
+497,images/image_folders/antman1/antman1_58.jpg,[0.       0.784954 5.205681 0.       ... 1.286153 0.       0.       0.      ],antman1,0
+498,images/image_folders/antman1/antman1_16.jpg,[4.411254 0.       0.       0.       ... 0.       4.993525 0.       0.      ],antman1,0
+499,images/image_folders/antman1/antman1_71.jpg,[0.       1.502821 0.       0.716004 ... 0.       0.       4.217174 0.      ],antman1,0
+500,images/image_folders/antman1/antman1_4.jpg,[3.113019 6.690076 1.535334 6.312623 ... 0.       0.       0.726511 1.028705],antman1,0
+501,images/image_folders/antman1/antman1_33.jpg,[2.062235 0.       0.       0.       ... 0.       7.793511 2.915882 3.080167],antman1,0
+502,images/image_folders/antman1/antman1_51.jpg,[0.       4.717531 8.125488 1.911664 ... 0.730872 0.486465 3.311146 3.082336],antman1,0
+503,images/image_folders/antman1/antman1_30.jpg,[2.408156 0.       0.       3.736404 ... 0.       0.       0.34761  4.759514],antman1,0
+504,images/image_folders/antman1/antman1_11.jpg,[ 0.        0.        0.       12.883718 ...  0.        3.861777  0.014194  4.224597],antman1,0
+505,images/image_folders/antman1/antman1_65.jpg,[ 0.660112  0.        0.        0.       ...  0.       11.5183    0.        0.548346],antman1,0
+506,images/image_folders/antman1/antman1_45.jpg,[5.650267 0.       0.       0.953512 ... 0.       1.035713 2.500085 1.323878],antman1,0
+507,images/image_folders/antman1/antman1_47.jpg,[0.       3.722105 9.448722 1.744794 ... 1.537727 6.354512 0.       3.599371],antman1,0
+508,images/image_folders/antman1/antman1_53.jpg,[1.382499 6.32224  7.780115 0.       ... 3.528253 3.657863 0.       0.      ],antman1,0
+509,images/image_folders/antman1/antman1_49.jpg,[4.236063 0.771726 0.       0.       ... 0.       2.589969 2.268659 0.      ],antman1,0
+510,images/image_folders/antman1/antman1_66.jpg,[6.319057 0.246773 0.514577 0.       ... 0.       1.957085 8.261568 4.873829],antman1,0
+511,images/image_folders/antman1/antman1_54.jpg,[4.889252 0.       0.       0.       ... 0.       3.235396 1.332067 0.      ],antman1,0
+512,images/image_folders/antman1/antman1_8.jpg,[0.       6.036091 5.055681 0.110199 ... 0.       2.359821 1.500649 5.488884],antman1,0
+513,images/image_folders/antman1/antman1_37.jpg,[5.650261 0.       0.       0.       ... 3.706412 0.       0.       0.      ],antman1,0
+514,images/image_folders/antman1/antman1_42.jpg,[0.       0.606248 2.854598 0.       ... 3.261677 0.       0.       0.580145],antman1,0
+515,images/image_folders/antman1/antman1_69.jpg,[0.691105 0.858934 0.       6.869979 ... 0.743812 1.423332 1.13232  0.848106],antman1,0
+516,images/image_folders/antman1/antman1_20.jpg,[0.       2.372241 7.551616 6.553098 ... 0.       0.       0.       0.      ],antman1,0
+517,images/image_folders/antman1/antman1_12.jpg,[5.236863 3.360756 3.597442 0.       ... 0.       6.182621 0.       0.      ],antman1,0
+518,images/image_folders/antman1/antman1_22.jpg,[0.       0.       0.       6.658185 ... 4.075758 0.674487 2.04241  0.      ],antman1,0
+519,images/image_folders/antman1/antman1_29.jpg,[0.       1.094256 0.828601 0.       ... 5.190678 0.       0.       0.      ],antman1,0
+520,images/image_folders/antman1/antman1_62.jpg,[0.       0.794639 0.       0.       ... 0.       2.734321 2.380401 2.344436],antman1,0
+521,images/image_folders/antman1/antman1_44.jpg,[0.       3.194589 6.096473 4.711883 ... 2.147943 2.200297 0.       0.      ],antman1,0
+522,images/image_folders/antman1/antman1_74.jpg,[8.858725 0.       0.       1.69864  ... 0.       2.257872 1.072018 0.457888],antman1,0
+523,images/image_folders/antman1/antman1_13.jpg,[0.       3.074275 5.071504 0.       ... 0.       0.86277  0.       0.849074],antman1,0
+524,images/image_folders/antman1/antman1_59.jpg,[0.       1.081107 0.       0.       ... 4.613316 0.       0.       0.      ],antman1,0
+525,images/image_folders/antman1/antman1_41.jpg,[ 0.        0.        2.849169 10.120411 ...  0.        0.542425  0.        3.598921],antman1,0
+526,images/image_folders/antman1/antman1_34.jpg,[12.579546  0.        0.        0.       ...  0.        7.25378   4.54005   0.      ],antman1,0
+527,images/image_folders/antman1/antman1_46.jpg,[0.       0.       4.191432 4.470134 ... 3.880983 3.658002 0.       4.837889],antman1,0
+528,images/image_folders/antman1/antman1_35.jpg,[0.       6.57905  1.982965 0.       ... 2.662329 0.       4.08477  0.      ],antman1,0
+529,images/image_folders/antman1/antman1_21.jpg,[0.399477 1.43005  5.45763  2.423225 ... 0.471696 2.839251 0.       0.      ],antman1,0
+530,images/image_folders/antman1/antman1_14.jpg,[1.61001  0.       2.161477 2.420438 ... 5.202953 3.228191 0.       1.03977 ],antman1,0
+531,images/image_folders/antman1/antman1_10.jpg,[0.643747 2.258713 5.925645 4.637028 ... 1.901466 0.       0.       1.82729 ],antman1,0
+532,images/image_folders/antman1/antman1_55.jpg,[0.       4.260504 1.807792 0.       ... 0.       2.91698  4.610744 4.586868],antman1,0
+533,images/image_folders/antman1/antman1_6.jpg,[0.       1.321145 0.27252  0.774367 ... 0.872595 0.       3.429678 0.      ],antman1,0
+534,images/image_folders/antman1/antman1_39.jpg,[0.       0.       0.       1.755235 ... 2.200797 0.       0.       0.      ],antman1,0
+535,images/image_folders/antman1/antman1_25.jpg,[4.320572 0.       0.       0.       ... 0.       2.141022 5.558575 0.620411],antman1,0
+536,images/image_folders/antman1/antman1_48.jpg,[0.       5.20149  5.7988   1.917074 ... 0.       0.       0.       0.      ],antman1,0
+537,images/image_folders/antman1/antman1_36.jpg,[5.802355 3.872207 1.616506 0.       ... 7.539898 0.       0.       1.062278],antman1,0
+538,images/image_folders/antman1/antman1_68.jpg,[0.732848 0.       0.142146 6.966199 ... 1.011845 0.       0.       0.      ],antman1,0
+539,images/image_folders/antman1/antman1_52.jpg,[2.857739 0.       0.       0.       ... 0.       5.147575 8.506379 0.      ],antman1,0
+540,images/image_folders/antman1/antman1_32.jpg,[0.       0.       0.103256 0.       ... 0.       4.681161 0.       0.      ],antman1,0
+541,images/image_folders/antman1/antman1_75.jpg,[0.       1.662982 2.432431 0.863741 ... 4.096267 0.       0.       0.901406],antman1,0
+542,images/image_folders/antman1/antman1_67.jpg,[3.754332 0.       3.03411  0.       ... 4.144983 0.       0.       0.      ],antman1,0
+543,images/image_folders/antman1/antman1_73.jpg,[0.       2.855555 0.       0.       ... 5.53327  0.       0.       0.      ],antman1,0
+544,images/image_folders/antman1/antman1_2.jpg,[0.       0.       0.814743 0.       ... 3.041031 0.       0.       0.      ],antman1,0
+545,images/image_folders/antman1/antman1_5.jpg,[4.044495 0.       6.054258 0.670176 ... 4.662756 0.       0.       0.      ],antman1,0
+546,images/image_folders/antman1/antman1_70.jpg,[0.       0.834387 8.298297 2.992917 ... 0.       0.       0.       1.181053],antman1,0
+547,images/image_folders/antman1/antman1_7.jpg,[0.591663 0.       0.       0.       ... 0.       7.980798 0.       5.267183],antman1,0
+548,images/image_folders/spidermanhomecoming/spidermanhomecoming_43.jpg,[4.293027 0.       0.       3.503508 ... 0.       0.       4.773591 1.46454 ],spidermanhomecoming,16
+549,images/image_folders/spidermanhomecoming/spidermanhomecoming_37.jpg,[5.272269 0.       0.       1.405873 ... 6.182308 1.554105 0.       3.419726],spidermanhomecoming,16
+550,images/image_folders/spidermanhomecoming/spidermanhomecoming_22.jpg,[0.       2.134316 3.3646   5.175552 ... 0.       0.       0.       2.318243],spidermanhomecoming,16
+551,images/image_folders/spidermanhomecoming/spidermanhomecoming_71.jpg,[2.218236 2.072214 0.       0.       ... 1.423017 0.       0.       1.219985],spidermanhomecoming,16
+552,images/image_folders/spidermanhomecoming/spidermanhomecoming_55.jpg,[4.263478 0.       0.       3.843107 ... 0.       5.775718 0.       1.953763],spidermanhomecoming,16
+553,images/image_folders/spidermanhomecoming/spidermanhomecoming_4.jpg,[0.       0.547152 0.       0.       ... 3.554446 0.       0.       0.      ],spidermanhomecoming,16
+554,images/image_folders/spidermanhomecoming/spidermanhomecoming_17.jpg,[0.       0.       0.       0.260183 ... 0.       0.       6.778256 4.592391],spidermanhomecoming,16
+555,images/image_folders/spidermanhomecoming/spidermanhomecoming_7.jpg,[0.       0.       0.       0.       ... 0.742104 8.594479 0.       1.18989 ],spidermanhomecoming,16
+556,images/image_folders/spidermanhomecoming/spidermanhomecoming_32.jpg,[4.087446 0.       5.711858 1.112071 ... 4.652216 0.       0.       0.      ],spidermanhomecoming,16
+557,images/image_folders/spidermanhomecoming/spidermanhomecoming_35.jpg,[ 0.        6.494288 11.869848  2.260286 ...  0.        0.72861   0.        0.      ],spidermanhomecoming,16
+558,images/image_folders/spidermanhomecoming/spidermanhomecoming_5.jpg,[0.       0.652435 6.952273 0.       ... 5.34576  4.920823 0.       4.152044],spidermanhomecoming,16
+559,images/image_folders/spidermanhomecoming/spidermanhomecoming_29.jpg,[3.47879  3.788871 0.       0.       ... 2.504563 0.       0.740185 0.      ],spidermanhomecoming,16
+560,images/image_folders/spidermanhomecoming/spidermanhomecoming_73.jpg,[3.10291  0.       0.       0.739681 ... 0.       1.261147 5.914786 1.653627],spidermanhomecoming,16
+561,images/image_folders/spidermanhomecoming/spidermanhomecoming_39.jpg,[1.433706 5.728469 5.406592 0.       ... 8.95391  0.       3.217937 0.911463],spidermanhomecoming,16
+562,images/image_folders/spidermanhomecoming/spidermanhomecoming_54.jpg,[0.666147 2.806677 5.584057 0.       ... 2.329397 3.886882 0.       7.140098],spidermanhomecoming,16
+563,images/image_folders/spidermanhomecoming/spidermanhomecoming_42.jpg,[0.       4.511444 3.564795 0.       ... 3.524507 0.       0.       0.206589],spidermanhomecoming,16
+564,images/image_folders/spidermanhomecoming/spidermanhomecoming_23.jpg,[1.258151 4.682369 0.       4.024128 ... 1.557993 0.       0.       1.012734],spidermanhomecoming,16
+565,images/image_folders/spidermanhomecoming/spidermanhomecoming_20.jpg,[2.50849  0.012795 0.       0.       ... 0.       9.173744 0.       3.175345],spidermanhomecoming,16
+566,images/image_folders/spidermanhomecoming/spidermanhomecoming_70.jpg,[0.       4.326682 0.       0.       ... 4.861893 0.       0.       0.      ],spidermanhomecoming,16
+567,images/image_folders/spidermanhomecoming/spidermanhomecoming_50.jpg,[0.       0.       6.720017 5.454883 ... 3.692866 5.110134 0.       0.      ],spidermanhomecoming,16
+568,images/image_folders/spidermanhomecoming/spidermanhomecoming_79.jpg,[4.470315 0.       0.811785 0.       ... 5.746127 2.910653 0.       0.16895 ],spidermanhomecoming,16
+569,images/image_folders/spidermanhomecoming/spidermanhomecoming_69.jpg,[5.577305 1.885355 0.       5.586666 ... 0.       4.393222 6.206914 0.      ],spidermanhomecoming,16
+570,images/image_folders/spidermanhomecoming/spidermanhomecoming_1.jpg,[0.       6.464182 1.360554 0.       ... 2.938086 0.       0.       0.      ],spidermanhomecoming,16
+571,images/image_folders/spidermanhomecoming/spidermanhomecoming_36.jpg,[0.23531  1.699259 9.334994 0.       ... 0.       7.647968 0.       0.      ],spidermanhomecoming,16
+572,images/image_folders/spidermanhomecoming/spidermanhomecoming_3.jpg,[3.613153 0.       0.       5.513967 ... 0.       3.390792 5.631217 6.082647],spidermanhomecoming,16
+573,images/image_folders/spidermanhomecoming/spidermanhomecoming_33.jpg,[2.774841 0.       0.       0.       ... 0.       2.025778 0.       0.      ],spidermanhomecoming,16
+574,images/image_folders/spidermanhomecoming/spidermanhomecoming_57.jpg,[1.534451 0.088115 0.       0.       ... 0.       0.       3.102457 0.778902],spidermanhomecoming,16
+575,images/image_folders/spidermanhomecoming/spidermanhomecoming_28.jpg,[0.       3.058272 1.216107 5.931479 ... 3.024669 1.332217 1.787825 0.      ],spidermanhomecoming,16
+576,images/image_folders/spidermanhomecoming/spidermanhomecoming_9.jpg,[0.       6.388583 7.915215 0.817634 ... 0.025935 3.574048 4.424286 5.472295],spidermanhomecoming,16
+577,images/image_folders/spidermanhomecoming/spidermanhomecoming_80.jpg,[11.274703  0.        0.        0.       ...  3.121447  1.500949  5.898267  2.444565],spidermanhomecoming,16
+578,images/image_folders/spidermanhomecoming/spidermanhomecoming_26.jpg,[0.       9.154294 0.322872 0.       ... 4.138298 0.       0.746084 1.99253 ],spidermanhomecoming,16
+579,images/image_folders/spidermanhomecoming/spidermanhomecoming_65.jpg,[0.       1.402329 7.575984 0.       ... 1.896144 1.708377 0.       0.136669],spidermanhomecoming,16
+580,images/image_folders/spidermanhomecoming/spidermanhomecoming_6.jpg,[1.405744 0.       0.       3.463596 ... 0.       0.       3.063172 5.329307],spidermanhomecoming,16
+581,images/image_folders/spidermanhomecoming/spidermanhomecoming_18.jpg,[0.       0.       0.       5.684234 ... 8.786883 0.180824 0.       0.      ],spidermanhomecoming,16
+582,images/image_folders/spidermanhomecoming/spidermanhomecoming_38.jpg,[0.       0.       0.       5.472086 ... 0.       6.202569 3.685581 2.132516],spidermanhomecoming,16
+583,images/image_folders/spidermanhomecoming/spidermanhomecoming_21.jpg,[1.880697 4.290387 2.425822 0.       ... 1.842392 3.68696  0.       0.      ],spidermanhomecoming,16
+584,images/image_folders/spidermanhomecoming/spidermanhomecoming_2.jpg,[7.160781 0.       0.       0.       ... 0.83892  0.       1.930197 0.      ],spidermanhomecoming,16
+585,images/image_folders/spidermanhomecoming/spidermanhomecoming_74.jpg,[0.       0.       7.757823 0.       ... 0.       0.       2.502528 6.180583],spidermanhomecoming,16
+586,images/image_folders/spidermanhomecoming/spidermanhomecoming_76.jpg,[1.04283  0.135986 0.       0.       ... 0.       2.998073 0.       0.      ],spidermanhomecoming,16
+587,images/image_folders/spidermanhomecoming/spidermanhomecoming_27.jpg,[0.       3.00284  1.621968 4.661917 ... 0.994803 1.219033 1.021925 0.005672],spidermanhomecoming,16
+588,images/image_folders/spidermanhomecoming/spidermanhomecoming_31.jpg,[4.088231 0.       5.715194 1.11337  ... 4.65287  0.       0.       0.      ],spidermanhomecoming,16
+589,images/image_folders/spidermanhomecoming/spidermanhomecoming_34.jpg,[6.35835  0.       0.       0.       ... 0.       0.       2.689027 0.      ],spidermanhomecoming,16
+590,images/image_folders/spidermanhomecoming/spidermanhomecoming_61.jpg,[ 2.826334  0.        0.        0.       ...  0.       11.136249  3.210958  5.575782],spidermanhomecoming,16
+591,images/image_folders/spidermanhomecoming/spidermanhomecoming_67.jpg,[2.810214 0.       0.       6.285419 ... 0.       1.44809  6.444417 5.514227],spidermanhomecoming,16
+592,images/image_folders/spidermanhomecoming/spidermanhomecoming_75.jpg,[0.       0.       2.328114 2.555617 ... 0.       3.978334 1.106485 0.061848],spidermanhomecoming,16
+593,images/image_folders/spidermanhomecoming/spidermanhomecoming_68.jpg,[0.       2.293268 4.35602  5.851641 ... 0.265255 3.083964 0.       0.      ],spidermanhomecoming,16
+594,images/image_folders/spidermanhomecoming/spidermanhomecoming_58.jpg,[0.480543 0.       4.223534 0.       ... 1.636355 0.       3.095896 5.545207],spidermanhomecoming,16
+595,images/image_folders/spidermanhomecoming/spidermanhomecoming_10.jpg,[0.       0.       0.       0.       ... 5.142416 5.039817 5.037894 4.331603],spidermanhomecoming,16
+596,images/image_folders/spidermanhomecoming/spidermanhomecoming_56.jpg,[1.404675 0.       5.288968 1.581301 ... 0.       3.404262 7.108722 4.533942],spidermanhomecoming,16
+597,images/image_folders/spidermanhomecoming/spidermanhomecoming_45.jpg,[0.       3.105562 6.160337 0.       ... 1.134766 1.43158  0.       0.246022],spidermanhomecoming,16
+598,images/image_folders/spidermanhomecoming/spidermanhomecoming_48.jpg,[0.362448 0.       0.       0.       ... 0.       2.522804 1.411539 3.522084],spidermanhomecoming,16
+599,images/image_folders/spidermanhomecoming/spidermanhomecoming_66.jpg,[0.       2.767594 6.783195 0.967745 ... 0.033249 0.       1.025958 5.751614],spidermanhomecoming,16
+600,images/image_folders/spidermanhomecoming/spidermanhomecoming_30.jpg,[0.       0.       0.       1.807802 ... 3.603956 0.       5.807058 7.722716],spidermanhomecoming,16
+601,images/image_folders/spidermanhomecoming/spidermanhomecoming_59.jpg,[0.956995 3.803668 0.548819 2.626208 ... 0.       0.       5.648602 5.467172],spidermanhomecoming,16
+602,images/image_folders/spidermanhomecoming/spidermanhomecoming_47.jpg,[2.992521 0.       0.       0.       ... 0.       6.815634 0.990363 5.735724],spidermanhomecoming,16
+603,images/image_folders/spidermanhomecoming/spidermanhomecoming_24.jpg,[6.717776 0.       0.       0.       ... 0.       0.       2.284975 0.      ],spidermanhomecoming,16
+604,images/image_folders/spidermanhomecoming/spidermanhomecoming_8.jpg,[0.       2.730146 1.967985 5.54709  ... 0.       0.       0.       4.702002],spidermanhomecoming,16
+605,images/image_folders/spidermanhomecoming/spidermanhomecoming_77.jpg,[0.000000e+00 5.641509e+00 0.000000e+00 5.742133e+00 ... 1.763977e-03 3.708546e-01 0.000000e+00 4.288726e+00],spidermanhomecoming,16
+606,images/image_folders/spidermanhomecoming/spidermanhomecoming_40.jpg,[0.       3.816983 5.196921 3.138392 ... 6.790655 1.824365 0.       0.      ],spidermanhomecoming,16
+607,images/image_folders/spidermanhomecoming/spidermanhomecoming_44.jpg,[0.       0.       0.       2.069253 ... 0.       2.809885 2.464504 4.545786],spidermanhomecoming,16
+608,images/image_folders/spidermanhomecoming/spidermanhomecoming_11.jpg,[4.844221 0.       0.       0.       ... 0.       7.245135 0.       4.234761],spidermanhomecoming,16
+609,images/image_folders/spidermanhomecoming/spidermanhomecoming_41.jpg,[6.339497 0.       0.809972 0.       ... 0.       2.054153 2.598655 4.124222],spidermanhomecoming,16
+610,images/image_folders/spidermanhomecoming/spidermanhomecoming_12.jpg,[1.640464 0.       0.       3.183729 ... 1.683103 2.024396 0.       0.393766],spidermanhomecoming,16
+611,images/image_folders/test/endgame_thanos_3.jpg,[0.542274 0.       0.       2.537119 ... 0.       0.       0.       0.      ],test,18
+612,images/image_folders/test/endgame_thanos_2.jpg,[5.348142 0.       0.       1.395337 ... 0.       0.       0.       0.065373],test,18
+613,images/image_folders/test/endgame_8.jpg,[0.       3.012383 2.752002 0.       ... 0.       0.       0.       0.      ],test,18
+614,images/image_folders/test/thorragnarok_hulk_3.jpg,[0.       1.615575 0.       1.665558 ... 2.404323 0.       3.089165 2.287416],test,18
+615,images/image_folders/test/thorragnarok_hulk_6.jpg,[0.       0.248218 3.35228  1.975856 ... 0.       0.       0.       2.05331 ],test,18
+616,images/image_folders/test/engame1.jpg,[0.       0.       5.675247 1.8986   ... 0.       4.103552 0.       0.298057],test,18
+617,images/image_folders/test/thanos1.jpg,[0.       2.82608  2.998938 0.       ... 0.070707 0.       0.       0.671068],test,18
+618,images/image_folders/test/thorragnarok_hulk_1.jpg,[0.       0.       2.357529 0.       ... 0.       0.       0.       1.277335],test,18
+619,images/image_folders/test/thorragnarok_hulk_11.jpg,[ 3.574554  0.        0.        1.827376 ...  0.       11.458015  0.        2.776285],test,18
+620,images/image_folders/test/thorragnarok_hulk_2.jpg,[0.       0.102283 7.679575 0.779397 ... 0.523421 3.676697 0.       0.      ],test,18
+621,images/image_folders/test/spidermanhomecoming_3.jpg,[0.       0.       0.       0.       ... 5.39258  0.835254 4.130018 0.      ],test,18
+622,images/image_folders/test/endgame_thanos_4.jpg,[6.993731 0.       0.       0.       ... 0.       3.701455 4.255366 0.      ],test,18
+623,images/image_folders/test/thorragnarok_hulk_8.jpg,[0.       7.868351 4.643402 0.       ... 4.488912 0.       0.66047  5.090067],test,18
+624,images/image_folders/test/engame_mohawk.jpg,[2.38617  0.       1.411684 2.966178 ... 2.515189 0.       0.       0.      ],test,18
+625,images/image_folders/test/endgame_7.jpg,[2.389709 0.       0.       0.       ... 0.       1.58603  1.014358 0.503828],test,18
+626,images/image_folders/test/endgame_6.jpg,[0.       3.569678 6.640211 0.       ... 0.       4.545997 0.       0.      ],test,18
+627,images/image_folders/test/thorragnarok_hulk_9.jpg,[0.       0.       0.       8.968335 ... 1.257989 0.       0.       1.746836],test,18
+628,images/image_folders/test/thorragnarok_hulk_10.jpg,[3.992983 0.       5.952254 1.253491 ... 4.709504 0.       0.       0.      ],test,18
+629,images/image_folders/test/fake_widdow.jpg,[4.088223 0.       5.715182 1.11339  ... 4.65287  0.       0.       0.      ],test,18
+630,images/image_folders/test/endgame_5.jpg,[0.       7.096805 1.828332 4.24059  ... 1.72875  2.061052 1.072285 1.363504],test,18
+631,images/image_folders/test/suri1.jpg,[2.410076 0.       0.       2.800054 ... 0.93458  0.       0.       0.      ],test,18
+632,images/image_folders/capamerica2/capamerica2_19.jpg,[13.071384  0.        0.        0.       ...  4.321074  0.111938 11.862062  0.      ],capamerica2,8
+633,images/image_folders/capamerica2/capamerica2_55.jpg,[0.       4.013913 5.631293 0.       ... 0.       6.068688 0.       2.10065 ],capamerica2,8
+634,images/image_folders/capamerica2/capamerica2_13.jpg,[0.       0.895698 0.       3.301605 ... 0.       3.385952 2.786477 1.998569],capamerica2,8
+635,images/image_folders/capamerica2/capamerica2_50.jpg,[1.939595 0.       0.       0.       ... 2.322305 0.       0.       0.      ],capamerica2,8
+636,images/image_folders/capamerica2/capamerica2_4.jpg,[0.       2.381548 7.1153   3.683266 ... 1.657744 0.474389 1.762571 0.      ],capamerica2,8
+637,images/image_folders/capamerica2/capamerica2_21.jpg,[0.2675   8.277282 0.       0.       ... 1.552191 0.       0.       0.      ],capamerica2,8
+638,images/image_folders/capamerica2/capamerica2_5.jpg,[ 0.        4.605427  0.       10.203564 ...  0.        0.       16.177462  0.      ],capamerica2,8
+639,images/image_folders/capamerica2/capamerica2_51.jpg,[0.99783  0.       0.       5.148554 ... 0.       0.       5.135057 2.974556],capamerica2,8
+640,images/image_folders/capamerica2/capamerica2_43.jpg,[0.       6.978479 4.444497 3.995133 ... 2.690661 0.       4.778416 0.500528],capamerica2,8
+641,images/image_folders/capamerica2/capamerica2_61.jpg,[ 2.586742  7.726787 15.032238  0.       ...  3.570766  0.554466  0.234294  3.293293],capamerica2,8
+642,images/image_folders/capamerica2/capamerica2_49.jpg,[0.       0.       0.       0.       ... 5.607929 0.       2.123731 0.      ],capamerica2,8
+643,images/image_folders/capamerica2/capamerica2_53.jpg,[1.574912 8.563448 0.       0.       ... 0.       0.       0.       3.654646],capamerica2,8
+644,images/image_folders/capamerica2/capamerica2_71.jpg,[0.       7.094881 7.890269 1.578148 ... 0.       5.068749 0.       0.      ],capamerica2,8
+645,images/image_folders/capamerica2/capamerica2_18.jpg,[0.       8.532844 0.       0.       ... 7.32837  5.332332 6.054105 0.      ],capamerica2,8
+646,images/image_folders/capamerica2/capamerica2_73.jpg,[0.       1.957061 2.197825 2.210955 ... 0.       0.       0.       0.      ],capamerica2,8
+647,images/image_folders/capamerica2/capamerica2_6.jpg,[2.036228 0.       5.034129 0.475083 ... 4.548901 0.       0.       0.      ],capamerica2,8
+648,images/image_folders/capamerica2/capamerica2_63.jpg,[2.798806 0.       0.       7.432737 ... 2.506459 0.       0.       0.746177],capamerica2,8
+649,images/image_folders/capamerica2/capamerica2_1.jpg,[2.643857 0.       2.876511 4.617837 ... 3.785533 0.       0.961055 1.548218],capamerica2,8
+650,images/image_folders/capamerica2/capamerica2_35.jpg,[1.989158 0.       0.       0.472052 ... 0.       0.       2.256456 0.      ],capamerica2,8
+651,images/image_folders/capamerica2/capamerica2_76.jpg,[0.       0.       0.       0.635817 ... 0.       0.829449 2.768255 0.060064],capamerica2,8
+652,images/image_folders/capamerica2/capamerica2_72.jpg,[0.       0.       4.052771 0.567451 ... 0.       0.       0.363653 7.461919],capamerica2,8
+653,images/image_folders/capamerica2/capamerica2_68.jpg,[0.       2.287738 0.       0.617951 ... 0.       0.       2.522452 1.289531],capamerica2,8
+654,images/image_folders/capamerica2/capamerica2_60.jpg,[0.       9.259343 9.108267 0.       ... 0.       2.33857  3.430047 5.819577],capamerica2,8
+655,images/image_folders/capamerica2/capamerica2_67.jpg,[0.       4.683482 0.       2.319688 ... 1.10177  0.       6.878031 1.60727 ],capamerica2,8
+656,images/image_folders/capamerica2/capamerica2_75.jpg,[0.       4.584113 0.518426 0.       ... 8.036474 0.       0.       0.      ],capamerica2,8
+657,images/image_folders/capamerica2/capamerica2_69.jpg,[3.780826 0.       0.       0.911981 ... 0.       1.126238 5.068927 2.365595],capamerica2,8
+658,images/image_folders/capamerica2/capamerica2_58.jpg,[0.       0.       0.       3.106314 ... 6.131828 1.349517 0.       0.      ],capamerica2,8
+659,images/image_folders/capamerica2/capamerica2_66.jpg,[0.71517  0.697186 0.       0.       ... 0.       4.05934  9.584716 0.904103],capamerica2,8
+660,images/image_folders/capamerica2/capamerica2_42.jpg,[0.       0.       2.974276 0.       ... 0.       5.185814 0.       0.      ],capamerica2,8
+661,images/image_folders/capamerica2/capamerica2_41.jpg,[2.284709 8.590098 4.651329 0.092289 ... 0.       0.       3.275162 5.528835],capamerica2,8
+662,images/image_folders/capamerica2/capamerica2_31.jpg,[1.108272 1.098585 7.421828 1.239414 ... 0.       3.542094 3.05796  4.776016],capamerica2,8
+663,images/image_folders/capamerica2/capamerica2_57.jpg,[3.259099 0.       0.       0.86284  ... 0.       1.462323 0.       0.      ],capamerica2,8
+664,images/image_folders/capamerica2/capamerica2_20.jpg,[0.       1.729671 0.967598 0.       ... 0.       0.       0.       3.012384],capamerica2,8
+665,images/image_folders/capamerica2/capamerica2_29.jpg,[0.       7.9905   2.56529  5.369853 ... 1.416943 4.276582 0.       0.367496],capamerica2,8
+666,images/image_folders/capamerica2/capamerica2_30.jpg,[0.       0.       2.298227 0.       ... 1.859386 0.165601 0.       1.99498 ],capamerica2,8
+667,images/image_folders/capamerica2/capamerica2_47.jpg,[0.       1.164414 0.       8.428169 ... 0.       2.117105 0.       0.      ],capamerica2,8
+668,images/image_folders/capamerica2/capamerica2_8.jpg,[0.       0.       2.242094 0.       ... 0.       2.138637 3.63752  0.      ],capamerica2,8
+669,images/image_folders/capamerica2/capamerica2_28.jpg,[3.205147 0.097295 5.314713 4.840877 ... 0.939766 0.183259 0.       0.      ],capamerica2,8
+670,images/image_folders/capamerica2/capamerica2_64.jpg,[0.       0.       4.262002 1.177768 ... 1.021093 3.240796 0.       0.      ],capamerica2,8
+671,images/image_folders/capamerica2/capamerica2_22.jpg,[1.195668 0.232194 0.418251 4.958606 ... 0.       8.167991 0.       3.787266],capamerica2,8
+672,images/image_folders/capamerica2/capamerica2_14.jpg,[1.274802 5.431514 0.       0.       ... 5.5023   0.       0.       0.      ],capamerica2,8
+673,images/image_folders/capamerica2/capamerica2_36.jpg,[2.606928 2.199081 0.       0.       ... 0.       5.804188 6.523695 4.524442],capamerica2,8
+674,images/image_folders/capamerica2/capamerica2_23.jpg,[3.615444 3.870722 0.       0.       ... 0.       1.434761 0.       2.672681],capamerica2,8
+675,images/image_folders/capamerica2/capamerica2_32.jpg,[4.422728 0.       0.       2.262929 ... 0.       0.       2.281724 0.      ],capamerica2,8
+676,images/image_folders/capamerica2/capamerica2_33.jpg,[7.576609 0.       0.       0.       ... 0.       6.036507 4.971855 1.954982],capamerica2,8
+677,images/image_folders/capamerica2/capamerica2_74.jpg,[0.       1.177678 0.       5.994666 ... 0.       1.261656 0.       0.      ],capamerica2,8
+678,images/image_folders/capamerica2/capamerica2_24.jpg,[2.550594 0.       0.       0.       ... 0.       4.750305 6.120059 3.209698],capamerica2,8
+679,images/image_folders/capamerica2/capamerica2_2.jpg,[0.       5.452489 1.820008 0.       ... 0.       0.113573 1.249243 0.      ],capamerica2,8
+680,images/image_folders/capamerica2/capamerica2_70.jpg,[4.088231 0.       5.71518  1.113375 ... 4.652879 0.       0.       0.      ],capamerica2,8
+681,images/image_folders/capamerica2/capamerica2_9.jpg,[ 0.       10.718439  7.789899  2.309636 ...  0.        0.295546  1.882832  8.078068],capamerica2,8
+682,images/image_folders/capamerica2/capamerica2_7.jpg,[ 0.        0.       11.780647  4.235749 ...  0.617192  0.        0.        3.872739],capamerica2,8
+683,images/image_folders/capamerica2/capamerica2_62.jpg,[0.       3.623256 0.       4.979675 ... 3.615288 4.107823 0.       0.      ],capamerica2,8
+684,images/image_folders/capamerica2/capamerica2_52.jpg,[9.114591 3.392736 0.       0.       ... 0.       0.       5.589406 0.      ],capamerica2,8
+685,images/image_folders/capamerica2/capamerica2_39.jpg,[5.181638 0.919459 0.       0.       ... 0.       0.       6.142803 0.417115],capamerica2,8
+686,images/image_folders/capamerica2/capamerica2_10.jpg,[0.       0.       0.       1.697175 ... 3.562842 0.       0.730107 8.945224],capamerica2,8
+687,images/image_folders/capamerica2/capamerica2_45.jpg,[ 3.744795  0.        0.        0.       ...  0.       11.295942  0.        0.741013],capamerica2,8
+688,images/image_folders/capamerica2/capamerica2_3.jpg,[0.       0.       0.       4.163532 ... 2.486196 0.       0.       0.      ],capamerica2,8
+689,images/image_folders/capamerica2/capamerica2_27.jpg,[ 0.        4.291698 11.967467 13.264315 ...  0.        2.156832  0.        6.955378],capamerica2,8
+690,images/image_folders/capamerica2/capamerica2_25.jpg,[0.78251  1.442317 9.694537 8.536624 ... 0.       8.153834 0.673573 0.      ],capamerica2,8
+691,images/image_folders/capamerica2/capamerica2_65.jpg,[ 1.48748   4.103855 12.836287  4.874033 ...  7.294342  6.939939  0.        0.      ],capamerica2,8
+692,images/image_folders/capamerica2/capamerica2_12.jpg,[0.       4.799372 7.042675 3.326995 ... 2.202075 0.       0.       0.      ],capamerica2,8
+693,images/image_folders/capamerica2/capamerica2_56.jpg,[3.679903 0.       0.       0.85626  ... 0.       4.58134  1.112229 0.      ],capamerica2,8
+694,images/image_folders/capamerica3/capamerica3_19.jpg,[0.       0.0286   5.053648 0.       ... 0.       0.       0.       0.      ],capamerica3,9
+695,images/image_folders/capamerica3/capamerica3_61.jpg,[0.273994 3.144746 1.844676 3.381484 ... 2.717091 3.171236 0.       0.745009],capamerica3,9
+696,images/image_folders/capamerica3/capamerica3_68.jpg,[0.       6.949736 1.780933 0.       ... 4.370463 0.       0.624838 2.778524],capamerica3,9
+697,images/image_folders/capamerica3/capamerica3_23.jpg,[6.635941 0.       0.       0.       ... 0.       0.757123 0.735764 0.      ],capamerica3,9
+698,images/image_folders/capamerica3/capamerica3_52.jpg,[0.       5.038317 3.650479 0.       ... 2.988532 0.446323 0.       0.      ],capamerica3,9
+699,images/image_folders/capamerica3/capamerica3_72.jpg,[5.026279 0.       5.626054 0.120019 ... 4.507823 0.       0.       0.      ],capamerica3,9
+700,images/image_folders/capamerica3/capamerica3_5.jpg,[4.682007 0.35595  0.212907 1.512581 ... 6.97309  1.773023 0.       0.      ],capamerica3,9
+701,images/image_folders/capamerica3/capamerica3_1.jpg,[1.129556 0.       0.       0.       ... 4.344464 0.       0.       0.      ],capamerica3,9
+702,images/image_folders/capamerica3/capamerica3_48.jpg,[3.066086 0.       0.723841 0.       ... 0.       2.120924 1.872633 2.805883],capamerica3,9
+703,images/image_folders/capamerica3/capamerica3_53.jpg,[3.543402 0.       0.       0.       ... 3.053682 4.4148   0.       0.      ],capamerica3,9
+704,images/image_folders/capamerica3/capamerica3_70.jpg,[0.       9.736445 5.002163 0.       ... 2.641638 0.       0.       0.      ],capamerica3,9
+705,images/image_folders/capamerica3/capamerica3_67.jpg,[0.       0.       0.       5.589351 ... 0.       5.348047 0.       2.034562],capamerica3,9
+706,images/image_folders/capamerica3/capamerica3_50.jpg,[7.001459 0.       0.       0.       ... 0.       7.616525 3.217052 3.887464],capamerica3,9
+707,images/image_folders/capamerica3/capamerica3_16.jpg,[3.0149   6.66523  0.       0.       ... 0.       3.100219 9.791793 1.77184 ],capamerica3,9
+708,images/image_folders/capamerica3/capamerica3_7.jpg,[0.       0.       0.       0.       ... 0.       5.008497 0.811821 5.676466],capamerica3,9
+709,images/image_folders/capamerica3/capamerica3_11.jpg,[0.       0.       2.583084 1.482529 ... 0.       4.590427 1.833626 0.      ],capamerica3,9
+710,images/image_folders/capamerica3/capamerica3_28.jpg,[0.       0.       4.950115 3.4088   ... 0.       7.568489 0.       0.319124],capamerica3,9
+711,images/image_folders/capamerica3/capamerica3_13.jpg,[0.       0.       0.       0.       ... 0.       3.432276 0.       0.      ],capamerica3,9
+712,images/image_folders/capamerica3/capamerica3_6.jpg,[0.       4.113845 0.       0.       ... 4.673827 0.       0.905201 0.770925],capamerica3,9
+713,images/image_folders/capamerica3/capamerica3_29.jpg,[0.       0.       7.261375 0.       ... 0.       5.823491 7.449949 0.      ],capamerica3,9
+714,images/image_folders/capamerica3/capamerica3_22.jpg,[0.       0.749519 0.547922 0.       ... 0.190541 0.       1.311644 0.104731],capamerica3,9
+715,images/image_folders/capamerica3/capamerica3_20.jpg,[0.       4.538493 0.49856  0.       ... 6.802138 0.       0.       0.      ],capamerica3,9
+716,images/image_folders/capamerica3/capamerica3_3.jpg,[0.       1.393085 0.       0.       ... 6.090745 2.224733 0.       0.      ],capamerica3,9
+717,images/image_folders/capamerica3/capamerica3_47.jpg,[0.       5.60433  0.383636 0.       ... 1.286562 0.       0.       2.525151],capamerica3,9
+718,images/image_folders/capamerica3/capamerica3_32.jpg,[7.812051 1.974616 1.145694 0.       ... 0.       0.       7.050723 4.544398],capamerica3,9
+719,images/image_folders/capamerica3/capamerica3_17.jpg,[3.153565 1.119328 1.621691 0.       ... 3.90074  1.069945 0.       0.      ],capamerica3,9
+720,images/image_folders/capamerica3/capamerica3_15.jpg,[4.266665 0.       0.       0.       ... 0.       4.734719 7.032499 0.      ],capamerica3,9
+721,images/image_folders/capamerica3/capamerica3_65.jpg,[ 0.        0.       10.787265  0.       ...  0.        0.        3.764357  5.755868],capamerica3,9
+722,images/image_folders/capamerica3/capamerica3_55.jpg,[0.       0.       0.972736 4.802112 ... 0.237049 3.653876 0.       2.67548 ],capamerica3,9
+723,images/image_folders/capamerica3/capamerica3_51.jpg,[7.126119 0.       0.       0.       ... 0.       6.864028 3.685186 0.      ],capamerica3,9
+724,images/image_folders/capamerica3/capamerica3_46.jpg,[0.       4.807338 0.115417 0.       ... 0.       4.616397 2.961588 0.813608],capamerica3,9
+725,images/image_folders/capamerica3/capamerica3_33.jpg,[0.       5.353546 7.374636 0.       ... 0.       1.711258 0.       1.152995],capamerica3,9
+726,images/image_folders/capamerica3/capamerica3_58.jpg,[5.31794  0.       0.       0.       ... 0.756345 1.323357 2.42946  0.      ],capamerica3,9
+727,images/image_folders/capamerica3/capamerica3_64.jpg,[0.       1.174068 2.349334 1.846578 ... 0.       0.       1.69976  4.730214],capamerica3,9
+728,images/image_folders/capamerica3/capamerica3_34.jpg,[1.464905 4.383442 4.110381 0.       ... 1.55073  0.       0.89452  0.      ],capamerica3,9
+729,images/image_folders/capamerica3/capamerica3_2.jpg,[1.283351 2.467462 4.65384  0.       ... 0.       8.9655   1.774513 4.219077],capamerica3,9
+730,images/image_folders/capamerica3/capamerica3_60.jpg,[0.657652 1.555908 0.       0.       ... 5.777923 0.       2.791742 0.      ],capamerica3,9
+731,images/image_folders/capamerica3/capamerica3_37.jpg,[0.       2.22877  2.058396 1.202014 ... 0.800506 0.       0.       3.453685],capamerica3,9
+732,images/image_folders/capamerica3/capamerica3_35.jpg,[ 4.270739  0.        0.        2.47414  ...  0.473823  1.101958 11.096058  2.886266],capamerica3,9
+733,images/image_folders/capamerica3/capamerica3_4.jpg,[8.002786 0.987723 2.16887  0.       ... 0.       0.253763 5.43087  3.863133],capamerica3,9
+734,images/image_folders/capamerica3/capamerica3_54.jpg,[1.279065 0.084811 0.       0.       ... 0.       5.92004  8.596227 4.703509],capamerica3,9
+735,images/image_folders/capamerica3/capamerica3_66.jpg,[4.844114 0.       6.391296 3.970075 ... 1.777449 0.       3.028567 7.98701 ],capamerica3,9
+736,images/image_folders/capamerica3/capamerica3_31.jpg,[6.262969 0.       0.       2.394571 ... 0.       6.138094 0.       2.126371],capamerica3,9
+737,images/image_folders/capamerica3/capamerica3_43.jpg,[5.004049 4.034369 0.       4.704168 ... 0.       0.935919 5.625756 3.944273],capamerica3,9
+738,images/image_folders/capamerica3/capamerica3_39.jpg,[8.256145 0.       0.       0.       ... 0.       7.499573 2.847755 0.      ],capamerica3,9
+739,images/image_folders/capamerica3/capamerica3_73.jpg,[0.       2.392396 4.14924  0.       ... 1.057511 3.578564 0.869954 1.625242],capamerica3,9
+740,images/image_folders/capamerica3/capamerica3_69.jpg,[4.914042 0.650965 1.329562 0.       ... 0.       4.68408  9.096887 5.942776],capamerica3,9
+741,images/image_folders/capamerica3/capamerica3_44.jpg,[ 0.        7.798976 14.190419  2.37272  ...  1.368637  0.        1.505897  7.222292],capamerica3,9
+742,images/image_folders/capamerica3/capamerica3_42.jpg,[11.090634  0.        0.        5.557373 ...  0.        1.016195  1.540221  2.909517],capamerica3,9
+743,images/image_folders/capamerica3/capamerica3_45.jpg,[7.313861 0.       0.       0.695771 ... 0.       1.244202 4.352082 0.      ],capamerica3,9
+744,images/image_folders/capamerica3/capamerica3_41.jpg,[1.32844  0.       0.561991 0.       ... 0.869034 0.       0.       2.820741],capamerica3,9
+745,images/image_folders/capamerica3/capamerica3_18.jpg,[0.       0.       0.155463 2.821201 ... 4.08851  0.       1.940898 0.      ],capamerica3,9
+746,images/image_folders/capamerica3/capamerica3_74.jpg,[ 0.        1.129395  6.80572   0.       ...  0.        8.546547  6.298447 14.665835],capamerica3,9
+747,images/image_folders/capamerica3/capamerica3_57.jpg,[0.       1.055683 4.840799 0.       ... 9.746398 3.559663 0.       0.      ],capamerica3,9
+748,images/image_folders/capamerica3/capamerica3_71.jpg,[3.480891 0.       0.       0.       ... 0.       0.722659 8.90251  6.646801],capamerica3,9
+749,images/image_folders/capamerica3/capamerica3_26.jpg,[0.       4.874082 8.42273  2.95878  ... 4.408756 6.117344 0.       0.      ],capamerica3,9
+750,images/image_folders/capamerica3/capamerica3_8.jpg,[0.       0.       0.       4.850365 ... 2.215065 0.       0.       4.24621 ],capamerica3,9
+751,images/image_folders/guardians1/guardians1_2.jpg,[ 0.        7.597385 13.065355  1.769355 ...  0.        0.        0.        2.370525],guardians1,12
+752,images/image_folders/guardians1/guardians1_50.jpg,[3.151801 0.461736 0.854482 6.354818 ... 3.337599 0.       6.079287 5.476268],guardians1,12
+753,images/image_folders/guardians1/guardians1_62.jpg,[2.566519 0.       0.       0.       ... 0.       1.368249 1.814479 0.      ],guardians1,12
+754,images/image_folders/guardians1/guardians1_72.jpg,[0.       6.17773  6.418278 0.       ... 0.       5.073905 4.725716 3.575049],guardians1,12
+755,images/image_folders/guardians1/guardians1_15.jpg,[ 0.        0.        1.302638 11.924374 ...  1.23721   0.        0.        4.475131],guardians1,12
+756,images/image_folders/guardians1/guardians1_76.jpg,[ 3.538019  0.        0.        4.284132 ...  0.        4.343203 10.997592  6.3792  ],guardians1,12
+757,images/image_folders/guardians1/guardians1_64.jpg,[4.569852 0.       4.621226 0.       ... 0.       0.8424   1.476641 0.      ],guardians1,12
+758,images/image_folders/guardians1/guardians1_55.jpg,[3.113548 0.       0.       1.104565 ... 1.430836 0.       6.952072 0.126111],guardians1,12
+759,images/image_folders/guardians1/guardians1_14.jpg,[6.339139 1.575061 0.062311 0.       ... 0.       0.       0.       0.      ],guardians1,12
+760,images/image_folders/guardians1/guardians1_61.jpg,[6.664859 0.       0.       0.       ... 4.1115   2.332238 3.530971 0.      ],guardians1,12
+761,images/image_folders/guardians1/guardians1_60.jpg,[0.       2.715177 0.439726 3.357352 ... 0.       0.       2.538075 0.883162],guardians1,12
+762,images/image_folders/guardians1/guardians1_66.jpg,[6.405226 0.50631  0.       0.446907 ... 0.       1.774054 8.653752 7.258021],guardians1,12
+763,images/image_folders/guardians1/guardians1_42.jpg,[0.       0.       0.       0.186961 ... 6.182997 0.       1.947707 0.      ],guardians1,12
+764,images/image_folders/guardians1/guardians1_18.jpg,[ 0.       13.286333  5.788248  0.       ...  1.084975  0.        0.        3.808274],guardians1,12
+765,images/image_folders/guardians1/guardians1_52.jpg,[0.       3.637214 0.       0.719427 ... 0.       5.21876  0.       0.      ],guardians1,12
+766,images/image_folders/guardians1/guardians1_73.jpg,[2.369627 2.533341 0.       6.263552 ... 7.423009 0.       0.       0.927227],guardians1,12
+767,images/image_folders/guardians1/guardians1_51.jpg,[0.       0.       1.551598 0.018573 ... 0.       0.       2.233445 1.038158],guardians1,12
+768,images/image_folders/guardians1/guardians1_31.jpg,[0.       0.       0.       1.763596 ... 0.       8.019347 5.567422 0.      ],guardians1,12
+769,images/image_folders/guardians1/guardians1_13.jpg,[4.088223 0.       5.715182 1.11339  ... 4.65287  0.       0.       0.      ],guardians1,12
+770,images/image_folders/guardians1/guardians1_75.jpg,[4.004762 0.       0.       0.       ... 0.       6.89142  2.660073 5.894926],guardians1,12
+771,images/image_folders/guardians1/guardians1_25.jpg,[0.       4.516326 0.       0.804256 ... 3.916385 0.       0.       0.      ],guardians1,12
+772,images/image_folders/guardians1/guardians1_20.jpg,[1.728929 0.       0.       2.120188 ... 0.       0.       0.       0.      ],guardians1,12
+773,images/image_folders/guardians1/guardians1_21.jpg,[0.       0.       0.       4.067356 ... 2.672451 0.       0.       0.      ],guardians1,12
+774,images/image_folders/guardians1/guardians1_74.jpg,[0.       8.828547 0.       0.       ... 0.356774 0.       2.946076 0.      ],guardians1,12
+775,images/image_folders/guardians1/guardians1_4.jpg,[1.22411  5.000691 7.599104 2.742577 ... 0.38596  5.286992 0.       0.      ],guardians1,12
+776,images/image_folders/guardians1/guardians1_5.jpg,[2.098292 2.594439 3.271704 2.54463  ... 0.       0.       3.314249 3.414551],guardians1,12
+777,images/image_folders/guardians1/guardians1_22.jpg,[9.474695 0.       0.       0.       ... 0.       7.989801 2.627072 0.      ],guardians1,12
+778,images/image_folders/guardians1/guardians1_32.jpg,[0.       0.266411 4.544146 0.       ... 0.       0.       6.171355 5.393548],guardians1,12
+779,images/image_folders/guardians1/guardians1_63.jpg,[0.772611 0.       4.464444 5.683283 ... 6.909656 0.       0.       3.080919],guardians1,12
+780,images/image_folders/guardians1/guardians1_16.jpg,[0.       3.157291 0.       0.       ... 3.705151 0.       0.155323 1.140297],guardians1,12
+781,images/image_folders/guardians1/guardians1_24.jpg,[0.       1.989064 3.937207 0.       ... 1.369701 1.927863 1.382616 0.      ],guardians1,12
+782,images/image_folders/guardians1/guardians1_41.jpg,[ 0.123302  0.        0.       10.95978  ...  0.13311   0.        0.        5.042934],guardians1,12
+783,images/image_folders/guardians1/guardians1_39.jpg,[0.023741 0.       0.       0.190182 ... 3.675992 0.       2.822013 4.236079],guardians1,12
+784,images/image_folders/guardians1/guardians1_34.jpg,[0.       6.234934 4.963564 4.650306 ... 0.       0.       0.       0.413825],guardians1,12
+785,images/image_folders/guardians1/guardians1_17.jpg,[9.456487 0.637699 0.       0.       ... 0.       4.039032 5.26491  0.      ],guardians1,12
+786,images/image_folders/guardians1/guardians1_23.jpg,[1.80866  0.       8.138288 2.115101 ... 5.769784 0.       0.       0.      ],guardians1,12
+787,images/image_folders/guardians1/guardians1_38.jpg,[7.048267 3.947183 3.468125 0.       ... 0.       0.       0.09837  4.743096],guardians1,12
+788,images/image_folders/guardians1/guardians1_6.jpg,[0.       0.       3.432528 0.       ... 0.       0.       1.518276 1.387992],guardians1,12
+789,images/image_folders/guardians1/guardians1_70.jpg,[0.       0.       9.875286 5.059358 ... 3.310471 3.003292 1.945119 2.169718],guardians1,12
+790,images/image_folders/guardians1/guardians1_35.jpg,[3.447789 7.359375 0.       0.       ... 0.       0.       3.00741  0.      ],guardians1,12
+791,images/image_folders/guardians1/guardians1_59.jpg,[1.75789  0.       3.285688 0.       ... 0.       0.264734 0.       0.      ],guardians1,12
+792,images/image_folders/guardians1/guardians1_45.jpg,[3.891189 0.       0.       1.927444 ... 0.       4.075561 2.328251 2.913418],guardians1,12
+793,images/image_folders/guardians1/guardians1_37.jpg,[1.272858 0.       0.       8.385122 ... 0.       3.736034 3.257354 0.      ],guardians1,12
+794,images/image_folders/guardians1/guardians1_29.jpg,[0.       4.419618 2.62491  0.       ... 2.779147 0.494154 0.       0.      ],guardians1,12
+795,images/image_folders/guardians1/guardians1_26.jpg,[4.677252 0.       0.       0.       ... 0.       2.247875 8.957518 0.532035],guardians1,12
+796,images/image_folders/guardians1/guardians1_28.jpg,[ 0.        0.        0.        0.054079 ...  2.040758 10.071206  0.        2.842671],guardians1,12
+797,images/image_folders/guardians1/guardians1_48.jpg,[2.519089 1.525931 0.       4.926088 ... 0.798644 0.       0.       0.      ],guardians1,12
+798,images/image_folders/guardians1/guardians1_56.jpg,[0.       0.       1.835357 1.653388 ... 0.663672 0.       0.       0.      ],guardians1,12
+799,images/image_folders/guardians1/guardians1_43.jpg,[0.       0.       6.389415 0.       ... 5.332922 0.       0.       1.551545],guardians1,12
+800,images/image_folders/guardians1/guardians1_71.jpg,[0.       2.777685 6.079651 0.       ... 1.917115 0.       0.       0.      ],guardians1,12
+801,images/image_folders/guardians1/guardians1_11.jpg,[0.       7.136155 1.56179  3.268486 ... 0.584821 0.       0.766733 2.698759],guardians1,12
+802,images/image_folders/guardians1/guardians1_9.jpg,[0.       4.784769 1.018723 0.       ... 2.884749 0.       1.425777 1.393502],guardians1,12
+803,images/image_folders/guardians1/guardians1_40.jpg,[0.       0.       1.351777 1.325534 ... 2.914914 2.213964 0.       0.      ],guardians1,12
+804,images/image_folders/guardians1/guardians1_65.jpg,[0.       2.909508 2.802291 2.241391 ... 3.290225 0.       0.       1.014388],guardians1,12
+805,images/image_folders/guardians1/guardians1_58.jpg,[0.       4.652624 4.696734 0.       ... 4.948678 0.       0.       0.      ],guardians1,12
+806,images/image_folders/guardians1/guardians1_8.jpg,[0.       4.029953 0.       0.       ... 0.       0.       0.       0.      ],guardians1,12
+807,images/image_folders/guardians1/guardians1_3.jpg,[0.       5.05288  5.331751 3.538477 ... 0.340431 7.840213 0.       0.      ],guardians1,12
+808,images/image_folders/guardians1/guardians1_33.jpg,[0.       0.       5.224085 0.416587 ... 0.       4.557763 0.       0.      ],guardians1,12
+809,images/image_folders/guardians1/guardians1_36.jpg,[0.       0.       7.871933 1.558091 ... 1.148449 1.59207  1.391541 7.032207],guardians1,12
+810,images/image_folders/guardians1/guardians1_12.jpg,[0.       0.       6.058423 2.234437 ... 0.       4.727181 0.       0.585947],guardians1,12
+811,images/image_folders/guardians1/guardians1_7.jpg,[1.528486 0.637206 3.089132 0.26925  ... 3.871685 8.496848 0.       0.      ],guardians1,12
+812,images/image_folders/guardians1/guardians1_27.jpg,[5.252137 0.       1.095696 3.295551 ... 0.       4.262107 2.102134 7.216889],guardians1,12
+813,images/image_folders/capamerica1/capamerica1_42.jpg,[2.09977 1.38892 0.      0.      ... 7.21849 0.      0.      0.     ],capamerica1,7
+814,images/image_folders/capamerica1/capamerica1_65.jpg,[0.       0.       0.       3.829758 ... 0.       4.914214 0.       1.215913],capamerica1,7
+815,images/image_folders/capamerica1/capamerica1_5.jpg,[0.       0.165391 1.694805 4.479162 ... 0.       0.       0.832612 8.93821 ],capamerica1,7
+816,images/image_folders/capamerica1/capamerica1_32.jpg,[0.       8.563082 0.       1.536212 ... 3.244007 0.       0.       5.353143],capamerica1,7
+817,images/image_folders/capamerica1/capamerica1_64.jpg,[1.158819 0.       0.568709 7.074668 ... 0.       1.843003 4.548651 3.836998],capamerica1,7
+818,images/image_folders/capamerica1/capamerica1_37.jpg,[0.       0.       4.034478 0.       ... 0.       1.807878 3.316906 2.537087],capamerica1,7
+819,images/image_folders/capamerica1/capamerica1_9.jpg,[0.       9.777496 1.894721 5.058022 ... 0.       0.       0.       0.      ],capamerica1,7
+820,images/image_folders/capamerica1/capamerica1_38.jpg,[0.       0.       0.       1.389897 ... 0.       0.783923 7.891411 0.      ],capamerica1,7
+821,images/image_folders/capamerica1/capamerica1_43.jpg,[3.018744 0.       0.       0.       ... 0.       3.120257 3.22038  0.189302],capamerica1,7
+822,images/image_folders/capamerica1/capamerica1_30.jpg,[0.       0.       4.806479 3.008052 ... 0.       0.       0.       0.      ],capamerica1,7
+823,images/image_folders/capamerica1/capamerica1_73.jpg,[6.950883 0.       0.       0.       ... 1.472542 6.761538 1.510931 0.207331],capamerica1,7
+824,images/image_folders/capamerica1/capamerica1_56.jpg,[0.014565 0.       0.19652  0.       ... 0.03717  3.408644 0.       0.      ],capamerica1,7
+825,images/image_folders/capamerica1/capamerica1_71.jpg,[2.382982 0.829021 0.       0.       ... 0.192265 7.511522 6.366561 0.      ],capamerica1,7
+826,images/image_folders/capamerica1/capamerica1_24.jpg,[0.170044 0.470163 5.216643 0.       ... 1.731869 1.318066 0.       0.762838],capamerica1,7
+827,images/image_folders/capamerica1/capamerica1_44.jpg,[2.976156 0.       0.       4.867105 ... 1.014251 0.       0.       0.      ],capamerica1,7
+828,images/image_folders/capamerica1/capamerica1_28.jpg,[8.267758 0.       0.       0.       ... 0.       6.041379 1.336796 3.625566],capamerica1,7
+829,images/image_folders/capamerica1/capamerica1_2.jpg,[ 4.050323  0.416467  0.        0.       ...  0.        5.230918  2.240114 11.490286],capamerica1,7
+830,images/image_folders/capamerica1/capamerica1_39.jpg,[0.       0.       4.841422 3.289106 ... 0.       3.75885  0.       0.692182],capamerica1,7
+831,images/image_folders/capamerica1/capamerica1_35.jpg,[ 5.853433  0.        0.        0.       ...  0.        0.738026 11.51142   1.652142],capamerica1,7
+832,images/image_folders/capamerica1/capamerica1_48.jpg,[0.       5.610548 0.       0.       ... 3.001059 1.631041 1.747205 0.      ],capamerica1,7
+833,images/image_folders/capamerica1/capamerica1_18.jpg,[0.       4.278364 0.568901 0.       ... 4.990304 0.       0.       0.      ],capamerica1,7
+834,images/image_folders/capamerica1/capamerica1_72.jpg,[0.       0.       1.382084 0.826688 ... 0.       0.       4.211087 6.268598],capamerica1,7
+835,images/image_folders/capamerica1/capamerica1_25.jpg,[6.101943 2.755683 0.       0.96056  ... 0.       3.802317 3.488997 0.      ],capamerica1,7
+836,images/image_folders/capamerica1/capamerica1_22.jpg,[4.074624 0.       5.738681 1.129879 ... 4.635074 0.       0.       0.      ],capamerica1,7
+837,images/image_folders/capamerica1/capamerica1_6.jpg,[2.90431  2.389864 0.698239 0.       ... 0.       5.903138 5.076234 1.585742],capamerica1,7
+838,images/image_folders/capamerica1/capamerica1_53.jpg,[0.       0.       0.       8.103168 ... 0.       0.       0.664093 0.      ],capamerica1,7
+839,images/image_folders/capamerica1/capamerica1_41.jpg,[0.       3.434464 0.617766 0.       ... 3.909073 0.       0.       0.      ],capamerica1,7
+840,images/image_folders/capamerica1/capamerica1_21.jpg,[0.       0.088766 4.279261 0.       ... 0.       6.230112 4.028582 3.774823],capamerica1,7
+841,images/image_folders/capamerica1/capamerica1_19.jpg,[ 7.382545  0.        0.        2.696151 ...  0.        3.540788 10.457737  7.250584],capamerica1,7
+842,images/image_folders/capamerica1/capamerica1_20.jpg,[0.       6.258527 4.339715 0.       ... 0.575379 0.       0.       1.901919],capamerica1,7
+843,images/image_folders/capamerica1/capamerica1_47.jpg,[0.       8.001175 7.196394 0.       ... 0.       0.       0.       0.      ],capamerica1,7
+844,images/image_folders/capamerica1/capamerica1_67.jpg,[8.209198 1.592775 0.       0.       ... 0.       3.362777 4.35562  0.      ],capamerica1,7
+845,images/image_folders/capamerica1/capamerica1_34.jpg,[0.       1.236726 4.731348 0.       ... 0.       1.002201 0.       1.194759],capamerica1,7
+846,images/image_folders/capamerica1/capamerica1_57.jpg,[2.484343 4.019281 2.146204 4.415188 ... 0.       0.       0.       0.      ],capamerica1,7
+847,images/image_folders/capamerica1/capamerica1_51.jpg,[0.       4.58582  3.769327 0.816104 ... 1.658234 0.549775 1.703438 0.      ],capamerica1,7
+848,images/image_folders/capamerica1/capamerica1_3.jpg,[0.       0.       0.957253 0.       ... 0.       0.       2.105788 1.969561],capamerica1,7
+849,images/image_folders/capamerica1/capamerica1_70.jpg,[0.       0.       1.111473 2.471077 ... 0.011771 2.170103 0.       0.      ],capamerica1,7
+850,images/image_folders/capamerica1/capamerica1_45.jpg,[1.102547 0.       0.       1.459558 ... 0.       0.       5.11352  0.      ],capamerica1,7
+851,images/image_folders/capamerica1/capamerica1_74.jpg,[2.258876 1.899189 0.554648 0.       ... 5.825662 2.998962 0.       2.027091],capamerica1,7
+852,images/image_folders/capamerica1/capamerica1_49.jpg,[2.030775 0.       0.       0.       ... 2.313269 6.65135  0.303938 5.870794],capamerica1,7
+853,images/image_folders/capamerica1/capamerica1_54.jpg,[7.612305 0.       0.       0.       ... 0.       3.111912 0.       0.      ],capamerica1,7
+854,images/image_folders/capamerica1/capamerica1_58.jpg,[ 0.        3.107461 10.708619  0.       ...  0.        0.        0.        1.010196],capamerica1,7
+855,images/image_folders/capamerica1/capamerica1_27.jpg,[5.39035  0.       0.       3.337193 ... 0.       0.       2.413885 7.499579],capamerica1,7
+856,images/image_folders/capamerica1/capamerica1_17.jpg,[6.054495 0.       0.       0.       ... 2.446735 2.190291 1.865865 0.      ],capamerica1,7
+857,images/image_folders/capamerica1/capamerica1_10.jpg,[2.232322 5.672412 0.       0.       ... 2.875473 0.       0.       0.      ],capamerica1,7
+858,images/image_folders/capamerica1/capamerica1_1.jpg,[5.224631 0.       0.       3.965617 ... 0.       2.036563 4.21928  3.50945 ],capamerica1,7
+859,images/image_folders/capamerica1/capamerica1_52.jpg,[4.664438 0.       0.       0.       ... 5.025077 0.       0.       0.      ],capamerica1,7
+860,images/image_folders/capamerica1/capamerica1_50.jpg,[2.939907 1.37273  2.626213 0.       ... 5.596217 0.       0.519993 0.      ],capamerica1,7
+861,images/image_folders/capamerica1/capamerica1_33.jpg,[3.77265  0.       3.687884 0.       ... 0.       0.       0.       6.487071],capamerica1,7
+862,images/image_folders/capamerica1/capamerica1_4.jpg,[0.830453 0.489681 0.       0.       ... 0.       0.82979  0.       0.      ],capamerica1,7
+863,images/image_folders/capamerica1/capamerica1_69.jpg,[0.       1.186663 0.       0.       ... 2.569328 0.       0.467897 0.      ],capamerica1,7
+864,images/image_folders/capamerica1/capamerica1_76.jpg,[6.620594 0.       0.       0.       ... 4.244051 3.634495 0.       0.      ],capamerica1,7
+865,images/image_folders/capamerica1/capamerica1_26.jpg,[10.81706   0.        0.        0.       ...  0.        5.596018  5.864846  0.      ],capamerica1,7
+866,images/image_folders/capamerica1/capamerica1_61.jpg,[4.217089 3.833814 0.       0.       ... 6.550653 0.       0.391638 0.      ],capamerica1,7
+867,images/image_folders/capamerica1/capamerica1_23.jpg,[0.561788 4.130657 0.       0.       ... 0.       0.       2.099757 0.      ],capamerica1,7
+868,images/image_folders/capamerica1/capamerica1_8.jpg,[0.       0.       2.871644 3.888024 ... 0.       0.       0.       8.378415],capamerica1,7
+869,images/image_folders/capamerica1/capamerica1_13.jpg,[0.       2.404726 2.054771 2.906289 ... 0.       3.512726 0.       2.61639 ],capamerica1,7
+870,images/image_folders/capamerica1/capamerica1_16.jpg,[1.464045 0.       0.       0.       ... 0.       1.824256 4.480139 2.851397],capamerica1,7
+871,images/image_folders/capamerica1/capamerica1_62.jpg,[1.575676 0.       0.704377 7.116941 ... 0.       1.59507  0.       0.171593],capamerica1,7
+872,images/image_folders/capamerica1/capamerica1_66.jpg,[0.       0.       0.       2.711479 ... 0.       9.648977 0.       0.      ],capamerica1,7
+873,images/image_folders/mcu_images/mcu_recap_cramit_1331.jpg,[7.199553e-01 0.000000e+00 0.000000e+00 9.858759e+00 ... 0.000000e+00 0.000000e+00 8.439286e-03 0.000000e+00],mcu_images,15
+874,images/image_folders/mcu_images/mcu_villian_looper_146.jpg,[3.169017 0.       2.655228 0.       ... 0.       6.100861 0.       0.527861],mcu_images,15
+875,images/image_folders/mcu_images/mcu_recap_cramit_573.jpg,[0.       0.       0.805272 0.982433 ... 0.       0.       0.       0.      ],mcu_images,15
+876,images/image_folders/mcu_images/mcu_recap_cramit_55.jpg,[0.       0.602397 7.132842 0.       ... 0.       5.527774 2.727958 0.04736 ],mcu_images,15
+877,images/image_folders/mcu_images/mcu_recap_cramit_796.jpg,[0.       4.439777 0.199508 1.529609 ... 0.       0.       2.317583 5.530036],mcu_images,15
+878,images/image_folders/mcu_images/mcu_villian_looper_60.jpg,[0.       3.826598 8.5728   7.117702 ... 0.145391 1.552961 1.871301 3.421703],mcu_images,15
+879,images/image_folders/mcu_images/mcu_looper_195.jpg,[ 0.        0.339675 10.576827  1.110705 ...  0.        6.072706  4.653464  5.671823],mcu_images,15
+880,images/image_folders/mcu_images/mcu_recap_cramit_1241.jpg,[0.       1.315693 0.       0.       ... 3.245337 0.150464 0.       0.996297],mcu_images,15
+881,images/image_folders/mcu_images/mcu_recap_cramit_275.jpg,[0.       0.       1.52153  0.495142 ... 0.       3.897947 0.862108 2.425964],mcu_images,15
+882,images/image_folders/mcu_images/mcu_recap_cramit_722.jpg,[ 1.856569  7.901347  0.        3.422441 ...  0.        2.508867 11.722527  1.094589],mcu_images,15
+883,images/image_folders/mcu_images/mcu_looper_57.jpg,[0.       1.480437 5.18817  6.22332  ... 0.       3.051586 0.       3.029814],mcu_images,15
+884,images/image_folders/mcu_images/mcu_recap_cramit_720.jpg,[4.26771  0.       0.       7.05629  ... 0.       4.512194 0.       0.      ],mcu_images,15
+885,images/image_folders/mcu_images/mcu_recap_cramit_414.jpg,[0.       5.067651 4.990514 8.647264 ... 0.542028 0.341938 0.       2.243898],mcu_images,15
+886,images/image_folders/mcu_images/mcu_recap_cramit_914.jpg,[ 0.       10.810481  7.468872  0.       ...  0.        1.083615  0.        6.240372],mcu_images,15
+887,images/image_folders/mcu_images/most_powerful_heros_mcu_334.jpg,[0.       0.       1.38863  0.       ... 0.       6.065422 3.986602 3.616146],mcu_images,15
+888,images/image_folders/mcu_images/mcu_villian_looper_222.jpg,[0.       1.415034 0.       0.       ... 0.       0.513126 4.703036 0.      ],mcu_images,15
+889,images/image_folders/mcu_images/mcu_villian_looper_33.jpg,[ 0.        3.308535 11.229933  9.021026 ...  1.815884  0.        4.171203  6.230736],mcu_images,15
+890,images/image_folders/mcu_images/mcu_recap_cramit_207.jpg,[3.204496 0.       0.       0.       ... 0.       2.050072 2.387206 0.      ],mcu_images,15
+891,images/image_folders/mcu_images/mcu_villian_looper_80.jpg,[0.94677  7.577684 2.374354 0.       ... 0.       0.       3.456385 0.      ],mcu_images,15
+892,images/image_folders/mcu_images/most_powerful_heros_mcu_175.jpg,[0.       3.817677 6.689307 2.367244 ... 1.570557 0.06769  0.       0.      ],mcu_images,15
+893,images/image_folders/mcu_images/most_powerful_heros_mcu_287.jpg,[3.627118 0.988807 0.       0.379786 ... 0.       5.095275 8.12872  5.650795],mcu_images,15
+894,images/image_folders/mcu_images/mcu_recap_cramit_707.jpg,[0.       9.641794 8.10454  2.19656  ... 0.       3.157388 1.866979 1.114644],mcu_images,15
+895,images/image_folders/mcu_images/mcu_best_avenger_danco_1.jpg,[3.26141  8.023332 0.       0.       ... 0.       3.290419 7.622628 6.288776],mcu_images,15
+896,images/image_folders/mcu_images/mcu_recap_cramit_1469.jpg,[0.477429 3.975316 3.180166 0.       ... 0.723543 2.172339 0.       5.195151],mcu_images,15
+897,images/image_folders/mcu_images/mcu_4min_32.jpg,[ 1.271819  1.155729  0.       11.717432 ...  0.        2.712908  0.        0.      ],mcu_images,15
+898,images/image_folders/mcu_images/mcu_recap_cramit_912.jpg,[0.       5.844925 0.       2.326131 ... 5.791478 3.9537   0.       6.979982],mcu_images,15
+899,images/image_folders/mcu_images/mcu_recap_cramit_888.jpg,[2.657644 3.649294 0.       0.       ... 0.       5.077981 3.238476 6.905118],mcu_images,15
+900,images/image_folders/mcu_images/mcu_engame_mojo_81.jpg,[ 3.946485  0.        0.        0.       ...  0.        0.        6.154002 10.881018],mcu_images,15
