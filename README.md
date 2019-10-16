@@ -43,6 +43,8 @@ While experimenting, we experimented with various pre-trained deep learning arch
 
 Below is an example output of the image similarity retrieval system:
 
+![](https://github.com/naivelogic/Image_Similarity_in_Marvel_MCU/blob/master/dev/marvel_image_retrievel_sample._tony.png)
+
 ![](https://github.com/naivelogic/Image_Similarity_in_Marvel_MCU/blob/master/dev/marvel_image_retrievel_sample.png)
 
 Just scrapping various trailer images of the MCU movies, we randomly selected a MCU movie image on google, in this case Guardians of the Galaxy (2014) and which retrieved similar images from the image library from that scene. Apparently the inquired image is not in the image library, however to solve that, we can just use the [x] [Duplicate Hash] notebook that uses the Locality Sensitive Hashing (LSH) function disussed above for identifying duplicative images. 
