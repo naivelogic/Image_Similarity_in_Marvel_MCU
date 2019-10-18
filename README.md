@@ -49,6 +49,31 @@ Below is an example output of the image similarity retrieval system:
 
 Just scrapping various trailer images of the MCU movies, we randomly selected a MCU movie image on google, in this case Guardians of the Galaxy (2014) and which retrieved similar images from the image library from that scene. Apparently the inquired image is not in the image library, however to solve that, we can just use the [x] [Duplicate Hash] notebook that uses the Locality Sensitive Hashing (LSH) function disussed above for identifying duplicative images. 
 
+-----
+
+## Results
+
+#### Model Training Results
+
+|   Model   | Input  Size |  Loss  | Accuracy | top 5  accuracy |
+|:---------:|:-----------:|:------:|:--------:|:---------------:|
+| ResNet34  |   224x224   | 1.011  |   0.723  |      0.935      |
+| ResNet50  |   224x224   |  x.xxx |   x.xxx  |      x.xxx      |
+| ResNet18  |   224x224   |  x.xxx |   x.xxx  |      x.xxx      |
+| Squeeznet |   224x224   |  x.xxx |   x.xxx  |      x.xxx      |
+
+
+
+#### Image Similarity Results
+
+
+| Distance Measure | mAP@5 | mAP@10 | mAP@20 | notes |
+|------------------|-------|--------|--------|-------|
+| Euclidean        |       |        |        |       |
+| Cosine           |       |        |        |       |
+| Manhattan        |       |        |        |       |
+
+------
 
 ### Requirements
 * Those new to python libraries, follow this guide to [install Keras + Tensorflow](https://keras.io/#installation) as both are needed if training a new model. 
