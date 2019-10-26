@@ -25,9 +25,20 @@ Below are the key steps used in this project:
 
 #### Marvel Dataset
 For the Image Processing, i utilized Marvel's trailers posted on YouTube. Refer to the image_processing file in the image folder on downloading and capturing images.Such as:
-* [YouTube] [MCU Complete Recap](https://www.youtube.com/watch?v=4eMW0TKNlpQ)
-* [YouTube] [The Entire MCU Timeline Explained](https://www.youtube.com/watch?v=SY86xyG-hDY&t=1088s)
-* [Youtbe] [Marvel Cinematic Universe 10 Year Recap](https://www.youtube.com/watch?v=wYXav05fy4w)
+* Experiment 1:
+  * [YouTube] [MCU Complete Recap](https://www.youtube.com/watch?v=4eMW0TKNlpQ)
+  * [YouTube] [The Entire MCU Timeline Explained](https://www.youtube.com/watch?v=SY86xyG-hDY&t=1088s)
+  * [Youtbe] [Marvel Cinematic Universe 10 Year Recap](https://www.youtube.com/watch?v=wYXav05fy4w)
+* Experiment 2:
+  * Went to all [YouTube] [Marevel Entertainment](https://www.youtube.com/user/MARVEL) channel and for each movie scraped images scenes as jpg files in each movie tile specific folder. Such as:
+  
+    ```
+    - ./images/
+      - antman1
+      - antman2
+      - avengers1
+      - avengers2
+    ```
 
 
 ### Algorithm & Experiments 
