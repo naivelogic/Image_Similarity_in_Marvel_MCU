@@ -66,12 +66,12 @@ Just scrapping various trailer images of the MCU movies, we randomly selected a 
 
 #### Model Training Results
 
-|   Model   | Input  Size |  Loss  | Accuracy | top 5  accuracy |
-|:---------:|:-----------:|:------:|:--------:|:---------------:|
-| ResNet34  |   224x224   | 1.011  |   0.723  |      0.935      |
-| ResNet50  |   224x224   |  x.xxx |   x.xxx  |      x.xxx      |
-| ResNet18  |   224x224   |  x.xxx |   x.xxx  |      x.xxx      |
-| Squeeznet |   224x224   |  x.xxx |   x.xxx  |      x.xxx      |
+|   Model   | Input  Size |  Loss  | Accuracy | top 5  accuracy |  Date    |
+|:---------:|:-----------:|:------:|:--------:|:---------------:|:--------:|
+| ResNet34  |   224x224   | 1.011  |   0.723  |      0.935      | 10/17/19 |
+| ResNet50  |   224x224   | 1.018x |   0.737  |      0.936      | 10/22/19 |
+| ResNet18  |   224x224   |  x.xxx |   x.xxx  |      x.xxx      |          |
+| Squeeznet |             |        |          |                 |          |
 
 
 
