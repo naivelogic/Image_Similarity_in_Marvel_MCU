@@ -105,6 +105,7 @@ $ pip install pytube
 ----
 ### Next Steps, TODOs, Outstanding Features
 * [ ] TODO: Model and Similarity Metric Evaluations 
+* [ ] Incorporate scores, threshold and filenames in final output for each k retrieved image
 * [ ] Formalize experimental notebooks and scripts
 * [ ] Feature: Web crawl using [Azure: Bing Image Search](https://azure.microsoft.com/en-us/services/cognitive-services/bing-image-search-api/) to find similar images. 
 
