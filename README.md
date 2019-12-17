@@ -106,6 +106,7 @@ $ pip install pytube
 ### Next Steps, TODOs, Outstanding Features
 * [ ] TODO: Model and Similarity Metric Evaluations 
 * [ ] [min-hash sigature maxtrix + threshold](https://towardsdatascience.com/understanding-locality-sensitive-hashing-49f6d1f6134); Code to reference- [santhoshhari github](https://santhoshhari.github.io/Locality-Sensitive-Hashing/)
+ * [ ] details on [Detecting near-duplicates](https://www.youtube.com/watch?v=dgH0NP8Qxa8)
 * [ ] Incorporate scores, threshold and filenames in final output for each k retrieved image
 * [ ] Formalize experimental notebooks and scripts
 * [ ] Feature: Web crawl using [Azure: Bing Image Search](https://azure.microsoft.com/en-us/services/cognitive-services/bing-image-search-api/) to find similar images. 
