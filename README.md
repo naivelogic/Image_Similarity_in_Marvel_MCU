@@ -1,5 +1,8 @@
 # Similar Image Retrieval System (Example - Marvel MCU Movies)
 
+_Given a set of new images and a library of existing images, find and retrieve most similar images._
+
+
 ### Objective
 The overall goal of this project is train a set of models to determine when provided a new image (in this case a frame from one of the MCU movies), we seek to provide an output of the closest __similar images__ related to the queries image/scene. In other words, given an image and a library of images, retireve the closes K similar images to queried image. This objective is achieved by:
 * leverage pre-trained models to extract features of images and index the nearest neighbor
@@ -7,7 +10,22 @@ The overall goal of this project is train a set of models to determine when prov
 
 ![](https://cdn-images-1.medium.com/max/2000/1*DcfRFa1ShCK7SkoMC2dHfA.jpeg)
 
-### Project Overview
+## Installations
+
+This project was developed using [anaconda] package environment. Some SDKs are only avialbale on PyPI so we install them using pip as part of the conda software install as well.
+
+_Refer here for additional steps on [setting up anaconda python environment](https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/)_
+
+### Initial Setup
+
+1. Clone the repository `git clone https://github.com/naivelogic/Image_Similarity_in_Marvel_MCU.git`
+
+2. Create a virtual environment via conda called `poe`, using `./environment.yml`. This can be achieved by running the command: `conda create --name marvel --file environment.yml`
+
+3. Run notebooks [ssim_modeling.ipynb](https://github.com/naivelogic/Image_Similarity_in_Marvel_MCU/blob/master/ssim_modeling.ipynb)
+
+
+## Project Overview
 For all Marvel Cinematic Universe (MCU) fans, and more boadly applied Machine Learning practictioners, this project seeks to utilize unsupervised learning and pretrained models to retrieve a list of similar images based on the inquired image. In short, we are building a unspervided deep learning Image Similarity Recommendation system. Moreover, described in the notebooks, the project can be used to tuned whatever image repository you have available. 
 
 #### Key Steps
@@ -104,6 +122,7 @@ $ pip install pytube
 
 ----
 ### Next Steps, TODOs, Outstanding Features
+* [ ] TODO: Create and test environment.yml file (for tf and fast.ai)
 * [ ] TODO: Model and Similarity Metric Evaluations 
 * [ ] [min-hash sigature maxtrix + threshold](https://towardsdatascience.com/understanding-locality-sensitive-hashing-49f6d1f6134); Code to reference- [santhoshhari github](https://santhoshhari.github.io/Locality-Sensitive-Hashing/)
  * [ ] details on [Detecting near-duplicates](https://www.youtube.com/watch?v=dgH0NP8Qxa8)
