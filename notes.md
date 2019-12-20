@@ -17,9 +17,41 @@ SSIM provides an image quality index based on the computations of the luminance,
 #### Locality Sensitive Hashing (LSH)
 While SSIM is to calculate the similarities among documents. __Locality Sensitive Hashing (LSH)__ is to find __near duplicates__ pairs of images _(viz. approximate nearest neighbor)_ in the library. Essentially, when 2 images are compared, LSH computes local relationships between the two imates on the feature map. The closer the features, the more likely the images would result in similar hashes (viz. reduce representation of data).  As descirbed in [3] below is the high level steps when cmoputing the LSH Algorithm:
 
+
+```
+* __Big idea__: hash columns of signature
+matrix
+M several times.
+* Arrange that (only) similar columns are
+likely to hash to the same bucket.
+* __Candidate pairs__ are those that hash __at
+least once__ to the same bucket.
+```
+_[Locality-Sensitive Hashing lecture](http://infolab.stanford.edu/~ullman/mining/2006/lectureslides/cs345-lsh.pdf)_
+
+
 ![](https://miro.medium.com/max/952/1*27nQOTC79yfh5lzmL06Ieg.png)
 
 
+
+#### Divide-Compute-Merge
+* Designed for “shingles” and docs.
+* At each stage, divide data into batches
+that fit in main memory.
+* Operate on individual batches and write
+out partial results to disk.
+* Merge partial results from disk
+
+
+DCM Summary
+1. Start with the pairs <shingleId, docId>.
+2. Sort by shingleId.
+3. In a sequential scan, generate triplets <docId1,
+docId2, 1> for pairs of docs that share a shingle.
+4. Sort on <docId1, docId2>.
+5. Merge triplets with common docIds to generate
+triplets of the form <docId1,docId2,count>.
+6. Output document pairs with count > threshold.
 
 -----
 ### Renaiming Images in Folder
