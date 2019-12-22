@@ -23,6 +23,7 @@ _Refer here for additional steps on [setting up anaconda python environment](htt
 2. Create a virtual environment via conda called `poe`, using `./environment.yml`. This can be achieved by running the command: `conda create --name marvel --file environment.yml`
 
 3. Run notebooks [ssim_modeling.ipynb](https://github.com/naivelogic/Image_Similarity_in_Marvel_MCU/blob/master/ssim_modeling.ipynb)
+  * [ ] TODO: update ENVIROMENT file to run fastai notebooks. 
 
 
 ## Project Overview
